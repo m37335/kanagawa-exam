@@ -1,0 +1,1540 @@
+﻿id,textBook,grade,articleId,sentenceId,Page,sentence
+0,NH,1,1,1,P4,"Good morning, Takashi."
+1,NH,1,1,2,P4,"Good morning, Jill."
+2,NH,1,1,3,P4,How are you?
+3,NH,1,1,4,P4,"I'm fine, thank you."
+4,NH,1,1,5,P4,And you?
+5,NH,1,1,6,P4,I'm OK.
+6,NH,1,1,7,P5,Stand up.
+7,NH,1,1,8,P5,Sit down.
+8,NH,1,1,9,P5,Raise your hand.
+9,NH,1,1,10,P5,Open your book to page four.
+10,NH,1,1,11,P5,Close your book.
+11,NH,1,1,12,P5,Look at this picture.
+12,NH,1,1,13,P5,Listen to the CD.
+13,NH,1,1,14,P5,Repeat after me.
+14,NH,1,1,15,P5,Let's read together.
+15,NH,1,1,16,P5,Write this down.
+16,NH,1,1,17,P5,"Quiet, please."
+17,NH,1,1,18,P5,Say that again.
+18,NH,1,1,19,P5,Pardon me?
+19,NH,1,1,20,P5,Excuse me.
+20,NH,1,1,21,P5,What's noto in English?
+21,NH,1,1,22,P8,Today is Monday.
+22,NH,1,1,23,P8,"First, Japanese."
+23,NH,1,1,24,P8,"Second, music."
+24,NH,1,1,25,P8,"Third, English."
+25,NH,1,1,26,P8,"Fourth, science."
+26,NH,1,1,27,P8,"Fifth, math."
+27,NH,1,1,28,P8,"Sixth, geography."
+28,NH,1,1,29,P9,My birthday is March 3.
+29,NH,1,1,30,P9,When is your birthday?
+30,NH,1,1,31,P9,My birthday is May 5.
+31,NH,1,1,32,P10,I like spaghetti.
+32,NH,1,1,33,P10,Do you like spaghetti?
+33,NH,1,1,34,P10,"Yes, I do."
+34,NH,1,1,35,P10,"No, I don't."
+35,NH,1,1,36,P10,But I like pizza.
+36,NH,1,1,37,P10,I can play soccer.
+37,NH,1,1,38,P10,Can you play soccer?
+38,NH,1,1,39,P10,"Yes, I can. "
+39,NH,1,1,40,P10,I can play soccer.
+40,NH,1,1,41,P10,"No, I can't. "
+41,NH,1,1,42,P10,But I can play baseball.
+42,NH,1,2,1,P22,"Good morning, everyone."
+43,NH,1,2,2,P22,Good morning.
+44,NH,1,2,3,P22,I'm Ellen Baker.
+45,NH,1,2,4,P22,B-A-K-E-R.
+46,NH,1,2,5,P22,Call me Ms. Baker.
+47,NH,1,2,6,P22,OK.
+48,NH,1,2,7,P24,Are you Ando Saki?
+49,NH,1,2,8,P24,"Yes, I am."
+50,NH,1,2,9,P24,"Call me Saki, please."
+51,NH,1,2,10,P24,"Oh, a judo uniform."
+52,NH,1,2,11,P24,"Are you in the judo club, Saki?"
+53,NH,1,2,12,P24,"Yes, I am."
+54,NH,1,2,13,P26,Are you from America?
+55,NH,1,2,14,P26,"Yes, I am."
+56,NH,1,2,15,P26,Are you from New York?
+57,NH,1,2,16,P26,"No, I'm not. "
+58,NH,1,2,17,P26,I'm from Boston.
+59,NH,1,2,18,P26,So are you a Boston Red Sox fan?
+60,NH,1,2,19,P26,"Yes, I am."
+61,NH,1,3,1,P30,"Ms. Baker, this is your pen."
+62,NH,1,3,2,P30,"Oh, yes."
+63,NH,1,3,3,P30,That's my pen.
+64,NH,1,3,4,P30,Here you are.
+65,NH,1,3,5,P30,Thank you.
+66,NH,1,3,6,P30,You're welcome.
+67,NH,1,4,1,P32,This is a nice picture!
+68,NH,1,4,2,P32,Is this Mt. Fuji?
+69,NH,1,4,3,P32,"Yes, it is."
+70,NH,1,4,4,P32,Is that an amusement park?
+71,NH,1,4,5,P32,"No, it's not."
+72,NH,1,4,6,P32,"It's a ""depato""."
+73,NH,1,4,7,P32,"In English, it's a department store."
+74,NH,1,4,8,P32,Oh! A department store.
+75,NH,1,5,1,P34,"Ms.Baker, this is Alex."
+76,NH,1,5,2,P34,He's my friend.
+77,NH,1,5,3,P34,He's from Canada.
+78,NH,1,5,4,P34,"Alex, this is Ms. Baker."
+79,NH,1,5,5,P34,She's our English teacher.
+80,NH,1,5,6,P34,"Hi, Alex. "
+81,NH,1,5,7,P34,Nice to meet you.
+82,NH,1,5,8,P34,"Nice to meet you, too."
+83,NH,1,5,9,P34,That's a nice T-shirt.
+84,NH,1,5,10,P34,Thank you.
+85,NH,1,6,1,P38,"Hi, my name is Deepa Mitra."
+86,NH,1,6,2,P38,I’m from India.
+87,NH,1,6,3,P38,I’m twelve.
+88,NH,1,6,4,P38,I like math.
+89,NH,1,6,5,P38,I study it every day.
+90,NH,1,6,6,P38,"I like music, too."
+91,NH,1,6,7,P38,I play the guitar in a band.
+92,NH,1,6,8,P40,Do you practice the guitar every day?
+93,NH,1,6,9,P40,"Yes, I do.  "
+94,NH,1,6,10,P40,I practice at home.
+95,NH,1,6,11,P40,"Do you play the piano, too?"
+96,NH,1,6,12,P40,"No, I don’t.  "
+97,NH,1,6,13,P40,But I sing.
+98,NH,1,6,14,P40,Really?  
+99,NH,1,6,15,P40,Do you write original music?
+100,NH,1,6,16,P40,"Yes, I do."
+101,NH,1,6,17,P42,Do you like baseball?
+102,NH,1,6,18,P42,"No, I don’t.  "
+103,NH,1,6,19,P42,I don’t play baseball.
+104,NH,1,6,20,P42,I play soccer.
+105,NH,1,6,21,P42,Do you know about judo?
+106,NH,1,6,22,P42,"Yes, I do. "
+107,NH,1,6,23,P42,But just a little.
+108,NH,1,6,24,P42,I’m a member of the judo club.
+109,NH,1,6,25,P42,"I go to judo school every Sunday, too."
+110,NH,1,6,26,P42,I want a black belt.
+111,NH,1,7,1,P46,Excuse me.
+112,NH,1,7,2,P46,"I want two lemons, three peaches, and two packs of cherries, please."
+113,NH,1,7,3,P46,Is that all?
+114,NH,1,7,4,P46,Yes.
+115,NH,1,7,5,P46,OK. 
+116,NH,1,7,6,P46,"Nine hundred and eighty yen, please."
+117,NH,1,7,7,P46,Here you are.
+118,NH,1,7,8,P46,Thank you very much.
+119,NH,1,7,9,P46,Here’s your change.
+120,NH,1,7,10,P46,Twenty yen.
+121,NH,1,8,1,P48,Do you have any pets now?
+122,NH,1,8,2,P48,"No, I don’t."
+123,NH,1,8,3,P48,But my parents have some rabbits in Boston.
+124,NH,1,8,4,P48,"Oh, really?"
+125,NH,1,8,5,P48,How many rabbits do they have?
+126,NH,1,8,6,P48,Three.
+127,NH,1,8,7,P48,Do you have a picture?
+128,NH,1,8,8,P48,Yes.
+129,NH,1,8,9,P48,Here’sone.
+130,NH,1,9,1,P50,"Oh, we have too much. "
+131,NH,1,9,2,P50,Here. 
+132,NH,1,9,3,P50,"Take a doggy bag, everyone."
+133,NH,1,9,4,P50,A doggy bag?
+134,NH,1,9,5,P50,Look.  
+135,NH,1,9,6,P50,"We put food in it, and we take it back home."
+136,NH,1,9,7,P50,"Oh, I see."
+137,NH,1,9,8,P50,Let’s use the doggy bags!
+138,NH,1,10,1,P54,"Hello, I’m Ikeda Shin."
+139,NH,1,10,2,P54,My favorite subject is English.
+140,NH,1,10,3,P54,"I don’t like math, but I study it every day."
+141,NH,1,10,4,P54,My name is Kudo Kana.
+142,NH,1,10,5,P54,I like volleyball.
+143,NH,1,10,6,P54,I’m on the volleyball team.
+144,NH,1,10,7,P54,I practice it very hard.
+145,NH,1,11,1,P58,"Kota, what’s this?"
+146,NH,1,11,2,P58,It’s a recipe for curry.
+147,NH,1,11,3,P58,What’s this?
+148,NH,1,11,4,P58,Is it chocolate?
+149,NH,1,11,5,P58,"No, it’s not."
+150,NH,1,11,6,P58,It’s a block of curry.
+151,NH,1,11,7,P58,Really?
+152,NH,1,11,8,P58,We don’t use that in my country.
+153,NH,1,11,9,P60,How’s the curry?
+154,NH,1,11,10,P60,It’s delicious!
+155,NH,1,11,11,P60,You’re a great cook.
+156,NH,1,11,12,P60,Thank you.
+157,NH,1,11,13,P60,The recipe is not difficult.
+158,NH,1,11,14,P60,That’s good.
+159,NH,1,11,15,P60,"India is famous for curry, right?"
+160,NH,1,11,16,P60,Yes.  
+161,NH,1,11,17,P60,We usually eat it with our fingers.
+162,NH,1,11,18,P60,Really?
+163,NH,1,11,19,P60,That’sinteresting.
+164,NH,1,12,1,P62,What do you have for breakfast?
+165,NH,1,12,2,P62,I often have toast and milk.
+166,NH,1,12,3,P62,How about you?
+167,NH,1,12,4,P62,I have rice and miso soup.
+168,NH,1,12,5,P62,Really?
+169,NH,1,12,6,P62,"I also have an egg, natto, and tofu."
+170,NH,1,12,7,P62,"Oh, you eat a lot!"
+171,NH,1,12,8,P62,I’m hungry in the morning.
+172,NH,1,13,1,P64,"Erika, how are you today?"
+173,NH,1,13,2,P64,Not so good.
+174,NH,1,13,3,P64,What's wrong?
+175,NH,1,13,4,P64,I have a headache.
+176,NH,1,13,5,P64,"Take this medicine, and take a rest."
+177,NH,1,13,6,P64,"Thank you, Dad."
+178,NH,1,14,1,P66,"Hello, everyone. "
+179,NH,1,14,2,P66,I’m Ando Saki.
+180,NH,1,14,3,P66,Look at this picture. 
+181,NH,1,14,4,P66,"This is Haruki, my brother."
+182,NH,1,14,5,P66,He lives in Australia.
+183,NH,1,14,6,P66,He studies at a university there.
+184,NH,1,14,7,P66,He speaks English really well.
+185,NH,1,14,8,P66,He sometimes teaches Japanese.
+186,NH,1,15,1,P68,Does Haruki live near a beach?
+187,NH,1,15,2,P68,"Yes, he does."
+188,NH,1,15,3,P68,He lives in Gold Coast.
+189,NH,1,15,4,P68,The city has many beautiful beaches.
+190,NH,1,15,5,P68,Does he go to the beach every day?
+191,NH,1,15,6,P68,"No, he doesn’t."
+192,NH,1,15,7,P68,But he goes there on weekends.
+193,NH,1,15,8,P68,What does he do there?
+194,NH,1,15,9,P68,"He runs, swims, and surfs with his friends."
+195,NH,1,15,10,P70,Do you know the animals of Australia?
+196,NH,1,15,11,P70,I know koalas and kangaroos.
+197,NH,1,15,12,P70,"Well, they come into the backyard of our house."
+198,NH,1,15,13,P70,Really?
+199,NH,1,15,14,P70,Yes. 
+200,NH,1,15,15,P70,My sister often draws the koalas in the trees.
+201,NH,1,15,16,P70,"Does Haruki like koalas, too?"
+202,NH,1,15,17,P70,I don’t know.
+203,NH,1,15,18,P70,"Usually, he doesn’t talk about animals."
+204,NH,1,16,1,P72,Hello?
+205,NH,1,16,2,P72,"Hello, Erika?"
+206,NH,1,16,3,P72,This is Yun-ho.
+207,NH,1,16,4,P72,Oh!
+208,NH,1,16,5,P72,"Hi, Yun-ho."
+209,NH,1,16,6,P72,Are you free on Saturday?
+210,NH,1,16,7,P72,It's my birthday.
+211,NH,1,16,8,P72,"Yes, I'm free."
+212,NH,1,16,9,P72,My party starts at three.
+213,NH,1,16,10,P72,Great. See you then. Goodbye.
+214,NH,1,16,11,P72,Bye.
+215,NH,1,17,1,P76,This is a picture of my home in Brazil.
+216,NH,1,17,2,P76,Who’s this girl?
+217,NH,1,17,3,P76,"She’s Maria, my daughter."
+218,NH,1,17,4,P76,She likes soccer.
+219,NH,1,17,5,P76,She’s very cute.
+220,NH,1,17,6,P76,How old is she?
+221,NH,1,17,7,P76,Is she in junior high school?
+222,NH,1,17,8,P76,"Well, this picture is old."
+223,NH,1,17,9,P76,She’s twenty-seven years old now.
+224,NH,1,17,10,P76,Really!
+225,NH,1,17,11,P78,Do you call your family in Brazil?
+226,NH,1,17,12,P78,"Yes, sometimes."
+227,NH,1,17,13,P78,The time is different.
+228,NH,1,17,14,P78,What time is it there now?
+229,NH,1,17,15,P78,It’s 4 a.m.
+230,NH,1,17,16,P78,"And the season is different, too."
+231,NH,1,17,17,P78,What season is it?
+232,NH,1,17,18,P78,"It’s fall in Japan, so it’s spring in Brazil."
+233,NH,1,17,19,P78,That’s interesting.
+234,NH,1,17,20,P80,What language do people in Brazil speak?
+235,NH,1,17,21,P80,English?
+236,NH,1,17,22,P80,We speak Portuguese.
+237,NH,1,17,23,P80,But you speak English well.
+238,NH,1,17,24,P80,"Does Maria speak English, too?"
+239,NH,1,17,25,P80,Yes.
+240,NH,1,17,26,P80,Her English is very good.
+241,NH,1,17,27,P80,She plays soccer in America now.
+242,NH,1,17,28,P80,"Wow. Which do you speak at home, English or Portuguese?"
+243,NH,1,17,29,P80,"Of course, Portuguese."
+244,NH,1,18,1,P82,"Dear Yun-ho,"
+245,NH,1,18,2,P82,Happy Birthday!
+246,NH,1,18,3,P82,And many happy returns of the day.
+247,NH,1,18,4,P82,"Love, Erika"
+248,NH,1,19,1,P84,"Oh, I’m late!"
+249,NH,1,19,2,P84,Where’s my dictionary?
+250,NH,1,19,3,P84,It’s under the books.
+251,NH,1,19,4,P84,Where’s my eraser?
+252,NH,1,19,5,P84,It’s by the computer.
+253,NH,1,19,6,P84,Where are my pencils?
+254,NH,1,19,7,P84,They’re in your pocket.
+255,NH,1,19,8,P86,"Kota, you’re late."
+256,NH,1,19,9,P86,I’m sorry.
+257,NH,1,19,10,P86,"Hi, Jane."
+258,NH,1,19,11,P86,Look.
+259,NH,1,19,12,P86,Do you know this book?
+260,NH,1,19,13,P86,"Oh, that’s Harry Potter."
+261,NH,1,19,14,P86,Is it yours?
+262,NH,1,19,15,P86,"Yes, it’s mine."
+263,NH,1,19,16,P86,I like this book.
+264,NH,1,19,17,P86,"I like that one, Winnie-the-Pooh."
+265,NH,1,19,18,P86,Whose book is that?
+266,NH,1,19,19,P86,It’s Saki’s.
+267,NH,1,19,20,P88,Do you know any other good books?
+268,NH,1,19,21,P88,How about The Tale of Peter Rabbit?
+269,NH,1,19,22,P88,It’s a story of a naughty rabbit.
+270,NH,1,19,23,P88,"Oh, I know Peter Rabbit."
+271,NH,1,19,24,P88,I like him very much.
+272,NH,1,19,25,P88,The writer is Beatrix Potter.
+273,NH,1,19,26,P88,Do you know about her?
+274,NH,1,19,27,P88,"No, I don’t."
+275,NH,1,19,28,P88,She’s very famous in the U.K.
+276,NH,1,19,29,P88,We love the nature and animals in her books.
+277,NH,1,20,1,P90,Welcome to Midori International Junior High School!
+278,NH,1,20,2,P90,"Our school is in Midori City, Japan."
+279,NH,1,20,3,P90,It’s 50 years old.
+280,NH,1,20,4,P90,We have about 200 students and 16 teachers.
+281,NH,1,20,5,P90,These are pictures from our school festival.
+282,NH,1,20,6,P90,We enjoy it every year.
+283,NH,1,20,7,P90,We love our school.
+284,NH,1,21,1,P94,It’s almost noon.
+285,NH,1,21,2,P94,"Mike, my brother, works in this Chinese restaurant."
+286,NH,1,21,3,P94,We’re waiting for him.
+287,NH,1,21,4,P94,Kota is drinking water.
+288,NH,1,21,5,P94,Deepa is watching the cook.
+289,NH,1,21,6,P94,Saki and Alex are talking about the menu.
+290,NH,1,21,7,P94,"Oh, Mike is coming."
+291,NH,1,21,8,P96,It’s very crowded.
+292,NH,1,21,9,P96,What are the people watching?
+293,NH,1,21,10,P96,"They’re watching henmen, a traditional Chinese art."
+294,NH,1,21,11,P96,Wow!
+295,NH,1,21,12,P96,The man is changing his masks so fast.
+296,NH,1,21,13,P96,"Are you taking pictures, Kota?"
+297,NH,1,21,14,P96,"No, I’m not."
+298,NH,1,21,15,P96,I’m taking a video.
+299,NH,1,21,16,P96,Let’s check it out later.
+300,NH,1,21,17,P98,"Kota, what do these Chinese words mean?"
+301,NH,1,21,18,P98,"Oh, they’re easy."
+302,NH,1,21,19,P98,Be careful.
+303,NH,1,21,20,P98,They’re not so easy.
+304,NH,1,21,21,P98,And don’t ask anyone.
+305,NH,1,21,22,P98,OK.
+306,NH,1,21,23,P98,Let’s check your answers.
+307,NH,1,21,24,P98,"Oh, no!"
+308,NH,1,21,25,P98,Two of them are wrong.
+309,NH,1,21,26,P98,"Well, don’t worry about it."
+310,NH,1,22,1,P100,Excuse me.
+311,NH,1,22,2,P100,I'm looking for Midori Station.
+312,NH,1,22,3,P100,Pardon me?
+313,NH,1,22,4,P100,I'm looking for Midori Station.
+314,NH,1,22,5,P100,Let's see…
+315,NH,1,22,6,P100,Go down this street.
+316,NH,1,22,7,P100,Turn left at the second traffic light.
+317,NH,1,22,8,P100,It’s by City Hospital.
+318,NH,1,22,9,P100,Thank you.
+319,NH,1,22,10,P100,You're welcome.
+320,NH,1,23,1,P104,I get up at seven.
+321,NH,1,23,2,P104,I leave home at seven fifty.
+322,NH,1,23,3,P104,I walk to school.
+323,NH,1,23,4,P104,I get to school at eight ten.
+324,NH,1,23,5,P104,We have lunch at twelve thirty.
+325,NH,1,23,6,P104,I play soccer after school.
+326,NH,1,23,7,P104,I usually study before dinner.
+327,NH,1,23,8,P104,I go to bed at about eleven.
+328,NH,1,24,1,P106,28-Dec
+329,NH,1,24,2,P106,"Dear Ms. Baker,"
+330,NH,1,24,3,P106,How are you?
+331,NH,1,24,4,P106,I am in a hotel in Boston with my family.
+332,NH,1,24,5,P106,Haruki is sleeping.
+333,NH,1,24,6,P106,He can sleep anywhere.
+334,NH,1,24,7,P106,But I cannot sleep tonight.
+335,NH,1,24,8,P106,I am so excited!
+336,NH,1,24,9,P106,I have an English book about Boston with me.
+337,NH,1,24,10,P106,I can read it with a dictionary.
+338,NH,1,24,11,P106,I like this city.
+339,NH,1,24,12,P106,Have a nice winter vacation and a happy new year!
+340,NH,1,24,13,P106,"Your student, Ando Saki"
+341,NH,1,25,1,P108,This is Boston Common.
+342,NH,1,25,2,P108,We can skate there.
+343,NH,1,25,3,P108,Can you skate?
+344,NH,1,25,4,P108,"Yes, I can."
+345,NH,1,25,5,P108,Let’s walk there.
+346,NH,1,25,6,P108,We can see some wonderful buildings on the way.
+347,NH,1,25,7,P108,Who’s that?
+348,NH,1,25,8,P108,Can you guess?
+349,NH,1,25,9,P108,"No, I can’t."
+350,NH,1,25,10,P108,Who is he?
+351,NH,1,25,11,P108,He’s Benjamin Franklin.
+352,NH,1,25,12,P108,He’s one of the Founding Fathers of America.
+353,NH,1,25,13,P108,"Oh, I see."
+354,NH,1,25,14,P110,"Thank you for yesterday, Ms. Brown."
+355,NH,1,25,15,P110,"Oh, that’s OK."
+356,NH,1,25,16,P110,"Well, this museum has many works of Japanese art."
+357,NH,1,25,17,P110,Let’s go!
+358,NH,1,25,18,P110,Look at this picture.
+359,NH,1,25,19,P110,Can you find Mt. Fuji in it?
+360,NH,1,25,20,P110,"Yes, I can."
+361,NH,1,25,21,P110,We love that mountain.
+362,NH,1,25,22,P110,A lot of people climb it.
+363,NH,1,25,23,P110,When can you climb it?
+364,NH,1,25,24,P110,Between July and September.
+365,NH,1,25,25,P110,We can’t climb it during winter.
+366,NH,1,25,26,P110,It’s dangerous.
+367,NH,1,25,27,P110,I see.
+368,NH,1,25,28,P110,Mt. Fuji in Boston.
+369,NH,1,25,29,P110,What a surprise!
+370,NH,1,26,1,P112,Can I open the window?  
+371,NH,1,26,2,P112,It’s hot.
+372,NH,1,26,3,P112,Sure.
+373,NH,1,26,4,P112,Can you help me with my homework?
+374,NH,1,26,5,P112,"Sorry, I can't.  "
+375,NH,1,26,6,P112,I'm making tempura.
+376,NH,1,26,7,P112,"Erika, dinner is ready.  "
+377,NH,1,26,8,P112,Can you set the table?
+378,NH,1,26,9,P112,OK.  
+379,NH,1,26,10,P112,I'm coming.
+380,NH,1,27,1,P116,The Japanese New Year
+381,NH,1,27,2,P116,"On New Year’s Eve, my friend and I enjoyed the Japanese way of life.  "
+382,NH,1,27,3,P116,We watched a music show on TV.  
+383,NH,1,27,4,P116,And we tried some special soba.
+384,NH,1,27,5,P116,"On New Year’s Day, we visited a shrine early in the morning.  "
+385,NH,1,27,6,P116,People clapped their hands and prayed.  
+386,NH,1,27,7,P116,"We clapped, too.  "
+387,NH,1,27,8,P116,We prayed for a good year.
+388,NH,1,28,1,P118,"Practice, Practice, Practice"
+389,NH,1,28,2,P118,Our soccer team has a good captain.  
+390,NH,1,28,3,P118,He came to school early and practiced very hard.  
+391,NH,1,28,4,P118,But he injured his leg.
+392,NH,1,28,5,P118,We went to the hospital and talked with him.  
+393,NH,1,28,6,P118,"He said, ""Practice hard, and we can get the trophy.  """
+394,NH,1,28,7,P118,"""We’re a great team."""
+395,NH,1,28,8,P118,"We practiced, practiced, practiced, and got the trophy."
+396,NH,1,29,1,P120,Did you read my report?
+397,NH,1,29,2,P120,"Yes, I did. "
+398,NH,1,29,3,P120,I read it last night.  
+399,NH,1,29,4,P120,You wrote about Boston.
+400,NH,1,29,5,P120,Yes.  
+401,NH,1,29,6,P120,I had a wonderful time there.  
+402,NH,1,29,7,P120,Where did you travel this winter?
+403,NH,1,29,8,P120,I didn’t travel this winter.  
+404,NH,1,29,9,P120,But I enjoy my life in Japan with you all.
+405,NH,1,29,10,P120,"I enjoy your class, too."
+406,NH,1,29,11,P120,Thank you.  
+407,NH,1,29,12,P120,I’m so happy.
+408,NH,1,29,13,P120,"Well, have a nice day, Ms. Baker."
+409,NH,1,29,14,P120,"See you tomorrow, Saki."
+410,NH,1,30,1,P122,22-Mar
+411,NH,1,30,2,P122,"Dear Yun-ho,"
+412,NH,1,30,3,P122,I am in Shimane now.  
+413,NH,1,30,4,P122,It took about one and a half hours by plane.
+414,NH,1,30,5,P122,I got up early this morning.  
+415,NH,1,30,6,P122,I enjoyed breakfast with my family.  
+416,NH,1,30,7,P122,We visited a big shrine.  
+417,NH,1,30,8,P122,We saw many interesting things.
+418,NH,1,30,9,P122,It is raining now and a little cold.  
+419,NH,1,30,10,P122,But Matsue is a beautiful city.  
+420,NH,1,30,11,P122,I am having a great time.
+421,NH,1,30,12,P122,"Your friend, Erika"
+422,NH,1,31,1,P126,We had our sports day in June.
+423,NH,1,31,2,P126,I can run fast.  
+424,NH,1,31,3,P126,So I ran in the relay.
+425,NH,1,31,4,P126,Our team won first place.
+426,NH,1,31,5,P126,I enjoyed the day very much.
+427,NH,1,32,1,P128,The Restaurant with Many Orders
+428,NH,1,32,2,P128,Two hunters lost their way in a forest.  
+429,NH,1,32,3,P128,"They found a restaurant, Wildcat House.  "
+430,NH,1,32,4,P128,"One hunter said, ""I’m hungry. "" "
+431,NH,1,32,5,P128,"""We can eat here."""
+432,NH,1,32,6,P128,They read a message on the door.  
+433,NH,1,32,7,P128,"It said, “We have many orders.”"
+434,NH,1,32,8,P128,"""Please understand.”"
+435,NH,1,32,9,P128,"In the restaurant, the hunters saw many messages.  "
+436,NH,1,32,10,P128,"The messages said, "
+437,NH,1,32,11,P128,"“Put your guns on the table,” "
+438,NH,1,32,12,P128,"“Take off your clothes,” "
+439,NH,1,32,13,P128,and “Put salt and vinegar on your bodies…”
+440,NH,1,32,14,P129,"“That’s strange,” one hunter said.  "
+441,NH,1,32,15,P129,“We’re not making orders.  
+442,NH,1,32,16,P129,Those messages are orders from this restaurant!” 
+443,NH,1,32,17,P129,"“That means….  Oh, no!  "
+444,NH,1,32,18,P129,We’re the food!”  
+445,NH,1,32,19,P129,Then the hunters saw two shiny eyes in two big keyholes of the door.  
+446,NH,1,32,20,P129,“Those eyes are watching us!”
+447,NH,1,32,21,P129,The hunters ran out of the restaurant.  
+448,NH,1,32,22,P129,"One hunter looked back and said, "
+449,NH,1,32,23,P129,“Where is the restaurant?”  
+450,NH,1,32,24,P129,“It’s not there.”  
+451,NH,1,32,25,P129,They stood alone in the forest.  
+452,NH,1,32,26,P129,The wind blew over them.
+453,NH,2,1,1,P4,"Hello, everyone."
+454,NH,2,1,2,P4,I'm Ando Saki.
+455,NH,2,1,3,P4,I went to Fukui with my familiy two weeks ago.
+456,NH,2,1,4,P4,This is a picture of a dinosaur museum.
+457,NH,2,1,5,P4,You can get a lot of information about dinosaurs and natural history at the museum.
+458,NH,2,1,6,P4,"We enjoyed delicious food, too."
+459,NH,2,1,7,P4,"For example, we ate Echizen soba."
+460,NH,2,1,8,P4,We had a good time.
+461,NH,2,1,9,P4,Thank you.
+462,NH,2,1,10,P5,How did you get to Fukui?
+463,NH,2,1,11,P5,We went there by car.
+464,NH,2,1,12,P5,Can we see a tyrannosaurus in the museum?
+465,NH,2,1,13,P5,"Yes, we can."
+466,NH,2,1,14,P5,How many hours did you spend at the museum?
+467,NH,2,1,15,P5,We spent three hours there!
+468,NH,2,1,16,P5,We saw a lot of dinosaurs.
+469,NH,2,2,1,P6,Back-to-School Sale!
+470,NH,2,2,2,P6,Midori Stationery Shop is having a sale.
+471,NH,2,2,3,P6,This pen was 150 yen last week.
+472,NH,2,2,4,P6,Now it's 100 yen.
+473,NH,2,2,5,P6,Five notebooks were 500 yen.
+474,NH,2,2,6,P6,Now they're 400 yen.
+475,NH,2,2,7,P6,Don't miss this sale!
+476,NH,2,3,1,P8,"Are you ready, Deepa?"
+477,NH,2,3,2,P8,Our class starts in a few minutes.
+478,NH,2,3,3,P8,Just a second!
+479,NH,2,3,4,P8,…OK.
+480,NH,2,3,5,P8,Let's go.
+481,NH,2,3,6,P8,What were you doing?
+482,NH,2,3,7,P8,I was looking for my pencil case.
+483,NH,2,3,8,P8,"Oh, did you buy that?"
+484,NH,2,3,9,P8,It's nice.
+485,NH,2,3,10,P8,Thanks.
+486,NH,2,3,11,P8,I bought it yesterday at the back-to-school sale.
+487,NH,2,4,1,P10,"April 20, 4:25 a.m."
+488,NH,2,4,2,P10,Hi.
+489,NH,2,4,3,P10,I'm Judy Smith from the United States.
+490,NH,2,4,4,P10,I'm in the seventh grade.
+491,NH,2,4,5,P10,My school starts in September and ends in June.
+492,NH,2,4,6,P10,Is it the same in Japan?
+493,NH,2,4,7,P10,My school has lots of fun events.
+494,NH,2,4,8,P10,"Last month, we had a dance."
+495,NH,2,4,9,P10,Both students and teachers danced in the cafeteria on that day.
+496,NH,2,4,10,P10,It was fun!
+497,NH,2,4,11,P10,What events do you have at your school?
+498,NH,2,4,12,P12,I was surprised.
+499,NH,2,4,13,P12,Your school is different from ours.
+500,NH,2,4,14,P12,"In Japan, the school year starts in April."
+501,NH,2,4,15,P12,You all look happy!
+502,NH,2,4,16,P12,"Our school has fun events, like a chorus contest."
+503,NH,2,4,17,P12,Each class sings together on stage.
+504,NH,2,4,18,P12,You wrote your message at 4:25 a.m. Japan time.
+505,NH,2,4,19,P12,I was sleeping then!
+506,NH,2,4,20,P12,"Now you're sleeping, right?"
+507,NH,2,4,21,P12,"We live far away from each other, but we can be friends."
+508,NH,2,4,22,P12,Let's keep in touch.
+509,NH,2,5,1,P16,"Saturday, April 28"
+510,NH,2,5,2,P16,I cleaned my room in the morning.
+511,NH,2,5,3,P16,"After lunch, I went to the library and borrowed some books."
+512,NH,2,5,4,P16,"In the evening, I watched a soccer game on TV."
+513,NH,2,5,5,P16,It was exciting.
+514,NH,2,5,6,P16,"Sunday, April 29"
+515,NH,2,5,7,P16,I went fishing at the Midori River With my friends.
+516,NH,2,5,8,P16,We caught many fish.
+517,NH,2,5,9,P16,"Other people were fishing there, too."
+518,NH,2,5,10,P16,We gave some fish to them.
+519,NH,2,5,11,P16,We had a good time.
+520,NH,2,6,1,P18,"Hi, Deepa."
+521,NH,2,6,2,P18,What are your plans for the holidays?
+522,NH,2,6,3,P18,I'm going to visit the U.K. next week.
+523,NH,2,6,4,P18,My sister and I are going to see many things.
+524,NH,2,6,5,P18,Do you want anything from the U.K.?
+525,NH,2,6,6,P20,"Show me your passport, please."
+526,NH,2,6,7,P20,Sure.
+527,NH,2,6,8,P20,Here you are.
+528,NH,2,6,9,P20,What's the purpose of your visit?
+529,NH,2,6,10,P20,Sightseeing.
+530,NH,2,6,11,P20,How long are you going to stay?
+531,NH,2,6,12,P20,For five days.
+532,NH,2,6,13,P20,Where are you going to stay?
+533,NH,2,6,14,P20,At my sister's house in London.
+534,NH,2,6,15,P20,I see.
+535,NH,2,6,16,P20,Enjoy your stay.
+536,NH,2,6,17,P20,Thank you.
+537,NH,2,6,18,P22,Look at that clock tower beside the Thames.
+538,NH,2,6,19,P22,It's about 150 years old.
+539,NH,2,6,20,P22,Many people call it Big Ben.
+540,NH,2,6,21,P22,"Maybe the name comes from its builder, Benjamin Hall."
+541,NH,2,6,22,P22,He was a very big man.
+542,NH,2,6,23,P22,"Now, we're going to ride that big Ferris wheel."
+543,NH,2,6,24,P22,It's about 20 years old.
+544,NH,2,6,25,P22,People call it the London Eye.
+545,NH,2,6,26,P22,It's 135 meters tall.
+546,NH,2,6,27,P22,We can see a great view from the top.
+547,NH,2,6,28,P22,"In London, we can find both old buildings and new ones."
+548,NH,2,6,29,P22,It's really interesting.
+549,NH,2,6,30,P24,Emi and I are at Oxford University now.
+550,NH,2,6,31,P24,It took about one hour from London to Oxford by train.
+551,NH,2,6,32,P24,Look.
+552,NH,2,6,33,P24,This is the dining hall.
+553,NH,2,6,34,P24,Maybe you know it from the Harry Potter movies.
+554,NH,2,6,35,P24,I love them.
+555,NH,2,6,36,P24,So I remember this hall from many scenes.
+556,NH,2,6,37,P24,Now I'm looking at the real thing.
+557,NH,2,6,38,P24,It's amazing.
+558,NH,2,6,39,P24,We can see so many things in our travels.
+559,NH,2,6,40,P24,The world is full of interesting places.
+560,NH,2,7,1,P28,Excuse me. 
+561,NH,2,7,2,P28,May I ask you a favor?
+562,NH,2,7,3,P28,Sure.
+563,NH,2,7,4,P28,Could you take our picture?
+564,NH,2,7,5,P28,All right. 
+565,NH,2,7,6,P28,Say cheese!
+566,NH,2,7,7,P28,"Could you take another one, please?"
+567,NH,2,7,8,P28,No problem.
+568,NH,2,8,1,P32,Don’t forget:
+569,NH,2,8,2,P32,□Wash your hands in the right way.
+570,NH,2,8,3,P32,□Look in the mirror to check your appearance.
+571,NH,2,8,4,P32,□Greet customers with a smile to welcome them.
+572,NH,2,8,5,P32,I’m here to learn about jobs in restaurants.
+573,NH,2,8,6,P34,"Deepa, where did you go on Career Day?"
+574,NH,2,8,7,P34,I went to an Italian restaurant.
+575,NH,2,8,8,P34,I want to be a chef.
+576,NH,2,8,9,P34,Wow.
+577,NH,2,8,10,P34,How was it?
+578,NH,2,8,11,P34,"It was interesting, but I got tired."
+579,NH,2,8,12,P34,"I tried to learn the whole menu, but I couldn’t."
+580,NH,2,8,13,P34,I see.
+581,NH,2,8,14,P34,I went to a newspaper company.
+582,NH,2,8,15,P34,I want to be a journalist.
+583,NH,2,8,16,P34,Sounds interesting.
+584,NH,2,8,17,P34,I want to hear about it.
+585,NH,2,9,1,P36,Kota and I went to a newspaper company on Career Day.
+586,NH,2,9,2,P36,"Mr. Suzuki, a journalist, showed us around the office."
+587,NH,2,9,3,P36,Then he took us out to interview a soccer player.
+588,NH,2,9,4,P36,"Mr. Suzuki told us, "
+589,NH,2,9,5,P36,“Newspapers are important to people everywhere.
+590,NH,2,9,6,P36,We need to report the news every day.
+591,NH,2,9,7,P36,We have many things to do.”
+592,NH,2,9,8,P36,Now I read newspapers every morning.
+593,NH,2,9,9,P36,"For my future, I have many things to learn."
+594,NH,2,9,10,P38,I went to a soccer stadium to interview Miyama Aya.
+595,NH,2,9,11,P38,"Mr. Suzuki, a journalist, took us there."
+596,NH,2,9,12,P38,Ms. Miyama played for some teams in the United States.
+597,NH,2,9,13,P38,"I want to play soccer abroad in the future, too."
+598,NH,2,9,14,P38,So I asked her for some advice.
+599,NH,2,9,15,P38,"She said, "
+600,NH,2,9,16,P38,“You need to get along with your teammates.
+601,NH,2,9,17,P38,You need to break the language barrier.
+602,NH,2,9,18,P38,Get a lot of experience.
+603,NH,2,9,19,P38,It’s all about your heart.”
+604,NH,2,9,20,P38,Her message impressed me.
+605,NH,2,9,21,P38,"To play abroad is not easy, but I really want to try."
+606,NH,2,10,1,P42,"Hi, Erika."
+607,NH,2,10,2,P42,Guess what!
+608,NH,2,10,3,P42,We want to hold a farewell party for you.
+609,NH,2,10,4,P42,"I’m going to invite our teachers, too."
+610,NH,2,10,5,P42,Do you have any plans next Sunday afternoon?
+611,NH,2,10,6,P42,Tell us your schedule.
+612,NH,2,10,7,P42,"Your friend, Yun-ho"
+613,NH,2,10,8,P42,"Hi, Yun-ho."
+614,NH,2,10,9,P42,Thank you for the party.
+615,NH,2,10,10,P42,I’m so happy.
+616,NH,2,10,11,P42,Your plan surprised me very much.
+617,NH,2,10,12,P42,I’m free on Sunday.
+618,NH,2,10,13,P42,I can’t wait!
+619,NH,2,10,14,P42,"Bye for now, Erika"
+620,NH,2,11,1,P46,I want to be a computer programmer.
+621,NH,2,11,2,P46,I have two reasons.
+622,NH,2,11,3,P46,"First, I like to surf the Internet."
+623,NH,2,11,4,P46,"Second, I want to make useful websites."
+624,NH,2,11,5,P46,So the job is perfect for me.
+625,NH,2,11,6,P46,"To be a good programmer, I study math, science, and English really hard."
+626,NH,2,12,1,P48,"Hello, everyone."
+627,NH,2,12,2,P48,I’m Kevin Parker.
+628,NH,2,12,3,P48,I’m from the United States.
+629,NH,2,12,4,P48,I’m going to talk about my dream.
+630,NH,2,12,5,P48,"I love nature, and I like to hike in the woods."
+631,NH,2,12,6,P48,My favorite place is Yosemite National Park.
+632,NH,2,12,7,P48,It’s a World Heritage Site.
+633,NH,2,12,8,P48,It’s famous for its very tall trees.
+634,NH,2,12,9,P48,People call them giant sequoias.
+635,NH,2,12,10,P48,I really love the nature in Yosemite.
+636,NH,2,12,11,P48,So I want to be a park ranger there.
+637,NH,2,12,12,P48,Rangers work for the park to protect its environment.
+638,NH,2,12,13,P48,My cousin works as a ranger in Yosemite.
+639,NH,2,12,14,P48,She knows a lot about nature.
+640,NH,2,12,15,P48,So I often ask her about it.
+641,NH,2,12,16,P48,"In the future, I hope to teach the importance of nature to the next generation."
+642,NH,2,12,17,P48,Thank you.
+643,NH,2,13,1,P50,Mary lived in the country.
+644,NH,2,13,2,P50,"Ben, her neighbor, was a good friend."
+645,NH,2,13,3,P50,"One day, they found a cow."
+646,NH,2,13,4,P50,"Hey, that’s my cow."
+647,NH,2,13,5,P50,"No, that’s my cow."
+648,NH,2,13,6,P50,What?
+649,NH,2,13,7,P50,Why do you think so?
+650,NH,2,13,8,P50,It has the same short legs as my other cows.
+651,NH,2,13,9,P50,"No, Mary."
+652,NH,2,13,10,P50,"It has the same long, black tail as my other cows."
+653,NH,2,13,11,P50,It’s mine.
+654,NH,2,13,12,P50,What are you saying?
+655,NH,2,13,13,P50,It’s my cow!
+656,NH,2,13,14,P50,"After this little fight, Ben took the cow."
+657,NH,2,13,15,P51,A week passed.
+658,NH,2,13,16,P51,Someone knocked at Mary’s door.
+659,NH,2,13,17,P51,Hello.
+660,NH,2,13,18,P51,Who are you?
+661,NH,2,13,19,P51,Hello. 
+662,NH,2,13,20,P51,I’m a traveling carpenter.
+663,NH,2,13,21,P51,Please call me Pat.
+664,NH,2,13,22,P51,I’m looking for work.
+665,NH,2,13,23,P51,Do you have any work for me?
+666,NH,2,13,24,P51,"Yes, Pat."
+667,NH,2,13,25,P51,Look at that small stream over there.
+668,NH,2,13,26,P51,"Ben, my bad neighbor, made it last week."
+669,NH,2,13,27,P51,"Oh, you sound so angry."
+670,NH,2,13,28,P51,Can you make a big fence along the stream?
+671,NH,2,13,29,P51,I don’t want to see his face.
+672,NH,2,13,30,P51,OK.
+673,NH,2,13,31,P51,No problem.
+674,NH,2,13,32,P52,Pat worked hard and fast.
+675,NH,2,13,33,P52,"At sunset, he finished his work."
+676,NH,2,13,34,P52,Mary came to see it.
+677,NH,2,13,35,P52,She was very surprised.
+678,NH,2,13,36,P52,What’s this?
+679,NH,2,13,37,P52,"Well, I built a bridge over the stream."
+680,NH,2,13,38,P52,Why did you do that?
+681,NH,2,13,39,P52,Take down this bridge right now!
+682,NH,2,13,40,P52,"Then the door of Ben’s house opened, and Ben came out of his house."
+683,NH,2,13,41,P52,Wait!
+684,NH,2,13,42,P52,Don’t take it down!
+685,NH,2,13,43,P53,Ben ran across the bridge and came to talk to Mary.
+686,NH,2,13,44,P53,"I’m sorry about the cow, Mary."
+687,NH,2,13,45,P53,"Please take it back, and be my friend again."
+688,NH,2,13,46,P53,I don’t want to lose your friendship.
+689,NH,2,13,47,P53,"Oh, Ben. I don’t want to lose yours, either."
+690,NH,2,13,48,P53,"Well, the bridge worked!"
+691,NH,2,13,49,P53,You both look very happy.
+692,NH,2,13,50,P53,"Thank you, Pat."
+693,NH,2,13,51,P53,You built a “bridge” between us.
+694,NH,2,13,52,P53,Yes.
+695,NH,2,13,53,P53,"Please stay here, Pat."
+696,NH,2,13,54,P53,We have a lot of work for you.
+697,NH,2,13,55,P53,"Thank you, but I can’t."
+698,NH,2,13,56,P53,I have many other bridges to build.
+699,NH,2,13,57,P53,He left with a smile.
+700,NH,2,14,1,P54,Homestay Advice
+701,NH,2,14,2,P54,You’re a member of the family. 
+702,NH,2,14,3,P54,You have to follow the family’s rules.
+703,NH,2,14,4,P54,You have to speak English here.
+704,NH,2,14,5,P54,But you don’t have to speak perfect English.
+705,NH,2,14,6,P54,Communication is important.
+706,NH,2,14,7,P56,"Saki, did you sleep well?"
+707,NH,2,14,8,P56,"Yes, thank you."
+708,NH,2,14,9,P56,"Well, make your bed and come downstairs."
+709,NH,2,14,10,P56,Make my bed?
+710,NH,2,14,11,P56,Yes.
+711,NH,2,14,12,P56,We all have to make our own beds.
+712,NH,2,14,13,P56,OK. 
+713,NH,2,14,14,P56,But I don’t know how.
+714,NH,2,14,15,P56,All right. 
+715,NH,2,14,16,P56,I’ll show you.
+716,NH,2,14,17,P58,Everyone in my host family is kind to me.
+717,NH,2,14,18,P58,But my host mother always gives me too much food.
+718,NH,2,14,19,P58,"Do I have to eat everything, or can I tell her?"
+719,NH,2,14,20,P58,Teacher’s  answer
+720,NH,2,14,21,P58,You must tell your host mother.
+721,NH,2,14,22,P58,"Say, “I’m sorry."
+722,NH,2,14,23,P58,"The food tastes delicious, but I can’t eat that much.”"
+723,NH,2,14,24,P58,She’ll understand.
+724,NH,2,14,25,P58,―――A few days later. ―――
+725,NH,2,14,26,P58,Thank you for your advice.
+726,NH,2,14,27,P58,It worked!
+727,NH,2,14,28,P58,Now I can really enjoy my meals.
+728,NH,2,14,29,P60,I’m sad.  
+729,NH,2,14,30,P60,My host family is very busy.
+730,NH,2,14,31,P60,"They don’t take me anywhere, so I have nothing to do on weekends."
+731,NH,2,14,32,P60,Saki’s host family always takes her to interesting places.
+732,NH,2,14,33,P60,Teacher’s answer
+733,NH,2,14,34,P60,"Carlo, you must not compare host families."
+734,NH,2,14,35,P60,Your family has its good points.
+735,NH,2,14,36,P60,Try to find them.
+736,NH,2,14,37,P60,They’re kind and interesting.
+737,NH,2,14,38,P60,Talk to them.
+738,NH,2,14,39,P60,―――A few days later. ―――
+739,NH,2,14,40,P60,You’re right.  
+740,NH,2,14,41,P60,I found my family’s good points.
+741,NH,2,14,42,P60,They try hard to talk with me.
+742,NH,2,14,43,P60,They like to laugh.
+743,NH,2,14,44,P60,"Actually, they’re very friendly."
+744,NH,2,14,45,P60,Thank you.
+745,NH,2,15,1,P64,Hello?
+746,NH,2,15,2,P64,Hello?
+747,NH,2,15,3,P64,This is Meg.
+748,NH,2,15,4,P64,"May I speak to Erika, please?"
+749,NH,2,15,5,P64,Sure.
+750,NH,2,15,6,P64,Just a second.
+751,NH,2,15,7,P64,"Hi, Meg. "
+752,NH,2,15,8,P64,What’s up?
+753,NH,2,15,9,P64,"It’s warm and sunny today, so I’m going to ride my bike to the park."
+754,NH,2,15,10,P64,Why don’t you come?
+755,NH,2,15,11,P64,"I’m sorry, but I can’t."
+756,NH,2,15,12,P64,I have to look after my neighbor’s children.
+757,NH,2,15,13,P64,Fine. 
+758,NH,2,15,14,P64,Maybe some other time.
+759,NH,2,16,1,P68,Products for Everyone
+760,NH,2,16,2,P68,These are universal design products.
+761,NH,2,16,3,P68,You can use them easily and safely.
+762,NH,2,16,4,P68,"If you are interested, we will send you a catalog."
+763,NH,2,16,5,P68,Our phone number is 5390-7416.
+764,NH,2,16,6,P70,I mistook the shampoo for the conditioner last night.
+765,NH,2,16,7,P70,I washed my hair twice.
+766,NH,2,16,8,P70,Did you know that shampoo bottles have bumps?
+767,NH,2,16,9,P70,Bumps?
+768,NH,2,16,10,P70,"No, I didn’t."
+769,NH,2,16,11,P70,It’s a universal design.
+770,NH,2,16,12,P70,What’s a universal design?
+771,NH,2,16,13,P70,It’s a design for everyone.
+772,NH,2,16,14,P70,I think universal designs are great.
+773,NH,2,16,15,P72,I used a wheelchair for the first time in my life today.
+774,NH,2,16,16,P72,"When I sat in it, I couldn’t use it easily."
+775,NH,2,16,17,P72,I felt a little scared.
+776,NH,2,16,18,P72,"I tried to get on a bus, but it was difficult."
+777,NH,2,16,19,P72,The bus door was wide.
+778,NH,2,16,20,P72,"Even so, it was very hard."
+779,NH,2,16,21,P72,I needed a lot of help.
+780,NH,2,16,22,P72,I learned an important lesson from this experience.
+781,NH,2,16,23,P72,"From now on, when I see someone in need, I’ll give them a hand."
+782,NH,2,16,24,P74,Universal design products are all around us.
+783,NH,2,16,25,P74,"For example, look at this plastic bottle."
+784,NH,2,16,26,P74,We can hold it easily because it has a special shape.
+785,NH,2,16,27,P74,"Now, look at this picture."
+786,NH,2,16,28,P74,Do you see the ramp by the stairs?
+787,NH,2,16,29,P74,"If you’re in a wheelchair, or pushing a stroller, you can use the ramp."
+788,NH,2,16,30,P74,"These days, many public places use the idea of universal design."
+789,NH,2,16,31,P74,I think it’s great because the products are useful for everyone.
+790,NH,2,17,1,P78,Excuse me.
+791,NH,2,17,2,P78,Which bus goes to the Palace Theater?
+792,NH,2,17,3,P78,The Palace Theater?
+793,NH,2,17,4,P78,Yes.
+794,NH,2,17,5,P78,Take Bus No. 104.
+795,NH,2,17,6,P78,It stops over there.
+796,NH,2,17,7,P78,A bus arrives every ten minutes.
+797,NH,2,17,8,P78,I see.
+798,NH,2,17,9,P78,Where should we get off ?
+799,NH,2,17,10,P78,Get off at 47th Street.
+800,NH,2,17,11,P78,How long does it take?
+801,NH,2,17,12,P78,Oh . . . I think it takes about ten minutes.
+802,NH,2,17,13,P78,Thank you.
+803,NH,2,17,14,P78,You’re welcome.
+804,NH,2,18,1,P80,Come and Laugh!
+805,NH,2,18,2,P80,There is a single cushion on the stage.
+806,NH,2,18,3,P80,There are many seats for the audience.
+807,NH,2,18,4,P80,What will happen here?
+808,NH,2,18,5,P80,Rakugo in English
+809,NH,2,18,6,P80,Japanese comic storytelling
+810,NH,2,18,7,P80,DATE December 10
+811,NH,2,18,8,P80,TIME 2:30 p.m.
+812,NH,2,18,9,P80,PLACE Midori Theater
+813,NH,2,18,10,P82,What is rakugo like?
+814,NH,2,18,11,P82,"Well, one performer plays several different characters."
+815,NH,2,18,12,P82,Wow.
+816,NH,2,18,13,P82,Is there a special stage set?
+817,NH,2,18,14,P82,"Yes, there is."
+818,NH,2,18,15,P82,But it’s simple.
+819,NH,2,18,16,P82,There’s only a cushion.
+820,NH,2,18,17,P82,Are there any props?
+821,NH,2,18,18,P82,"Yes, there are."
+822,NH,2,18,19,P82,A fan and a hand towel.
+823,NH,2,18,20,P82,The performer uses them in different ways.
+824,NH,2,18,21,P84,"These days, rakugo is spreading to other countries."
+825,NH,2,18,22,P84,"Their cultures are different, so rakugo performers change parts of the stories."
+826,NH,2,18,23,P84,"Then, everyone can understand them."
+827,NH,2,18,24,P84,Laughter is a strong bridge.
+828,NH,2,18,25,P84,Some doctors think that laughter is also good for our health.
+829,NH,2,18,26,P84,They even hold rakugo shows for their patients.
+830,NH,2,18,27,P84,"Now, enjoy listening to some classic rakugo stories in English."
+831,NH,2,18,28,P84,Relax and have fun!
+832,NH,2,18,29,P86,"In a cafeteria, three classmates are talking about scary things."
+833,NH,2,18,30,P86,I’m scared of snakes.
+834,NH,2,18,31,P86,"Well, I’m scared of tests."
+835,NH,2,18,32,P86,"Ha-ha. How about you, Mark?"
+836,NH,2,18,33,P86,I’m scared of… donuts.
+837,NH,2,18,34,P86,I don’t even want to see them.
+838,NH,2,18,35,P86,Really?
+839,NH,2,18,36,P86,That’s interesting.
+840,NH,2,18,37,P86,[Eric buys some donuts.]
+841,NH,2,18,38,P86,"Here are your donuts, Mark!"
+842,NH,2,18,39,P86,"Oh, no!"
+843,NH,2,18,40,P86,[Mark starts eating the donuts.]
+844,NH,2,18,41,P86,"Hey, you said you’re scared of donuts!"
+845,NH,2,18,42,P86,Yes. Seeing donuts is really scary.
+846,NH,2,18,43,P86,So I’m eating them.
+847,NH,2,18,44,P86,"Oh, I forgot to tell you."
+848,NH,2,18,45,P86,"I’m scared of milk, too."
+849,NH,2,19,1,P90,Picnic
+850,NH,2,19,2,P90,Happy faces
+851,NH,2,19,3,P90,"Eating, talking, laughing"
+852,NH,2,19,4,P90,Sunny sky above us
+853,NH,2,19,5,P90,Wonderful
+854,NH,2,19,6,P91,Hometown
+855,NH,2,19,7,P91,Pretty flowers
+856,NH,2,19,8,P91,Birds are singing
+857,NH,2,19,9,P91,"Oh, my beautiful memories"
+858,NH,2,19,10,P91,Forever
+859,NH,2,20,1,P92,I live in Kumamoto City in Kyushu.  
+860,NH,2,20,2,P92,Kyushu is in the southwest of Japan.  
+861,NH,2,20,3,P92,My city is famous for Kumamoto Castle.  
+862,NH,2,20,4,P92,Its main palace is popular.  
+863,NH,2,20,5,P92,"There are beautiful rooms, a great kitchen, a simple tea room, and so on.  "
+864,NH,2,20,6,P92,You can learn about history there.
+865,NH,2,21,1,P94,"Hello, everyone. "
+866,NH,2,21,2,P94,I’m Wang Meiling.
+867,NH,2,21,3,P94,Look at this picture.
+868,NH,2,21,4,P94,"This is my town in Fujian, China."
+869,NH,2,21,5,P94,You can see some round houses.
+870,NH,2,21,6,P94,People call them Fujian Tulou.
+871,NH,2,21,7,P94,Don’t you think they look interesting?
+872,NH,2,21,8,P94,I live in one of these houses.
+873,NH,2,21,9,P94,It’s huge.
+874,NH,2,21,10,P94,There are about 350 rooms.
+875,NH,2,21,11,P94,About 300 people from 60 families live together in our house.
+876,NH,2,21,12,P94,"I live there with my parents, grandparents, two uncles, three aunts, and three cousins."
+877,NH,2,21,13,P94,"There are kitchens on the first floor, and food storage rooms on the second floor."
+878,NH,2,21,14,P94,There are living rooms and bedrooms on the third and fourth floors.
+879,NH,2,21,15,P94,"If we are hungry, we have to go downstairs."
+880,NH,2,21,16,P94,I like my house and town because living together with a big family is fun.
+881,NH,2,22,1,P96,“Why did my grandmother die?
+882,NH,2,22,2,P96,Why did everyone leave me?” cried a boy of fourteen.
+883,NH,2,22,3,P96,“I hate my father and mother.”
+884,NH,2,22,4,P96,The sun was bright in the blue sky above him.
+885,NH,2,22,5,P96,But the boy could not see it because he was blind.
+886,NH,2,22,6,P96,The boy was born in 1952 in Okinawa.
+887,NH,2,22,7,P96,His father was Mexican-American and his mother was Japanese.
+888,NH,2,22,8,P96,Both of them left home when he was a baby.
+889,NH,2,22,9,P96,So his grandmother took care of him.
+890,NH,2,22,10,P97,The boy’s name was Aragaki Tsutomu.
+891,NH,2,22,11,P97,He liked music very much.
+892,NH,2,22,12,P97,"One day, he heard some hymns on the radio."
+893,NH,2,22,13,P97,He was interested in them.
+894,NH,2,22,14,P97,"He wanted to hear some other hymns, and so he went to a church."
+895,NH,2,22,15,P97,"At the church, he met the minister."
+896,NH,2,22,16,P97,Tsutomu told him about his life.
+897,NH,2,22,17,P97,The minister listened to him quietly.
+898,NH,2,22,18,P97,"When Tsutomu stopped talking, he found that the minister was crying."
+899,NH,2,22,19,P97,"“Oh, he understands me,” Tsutomu thought."
+900,NH,2,22,20,P98,"The minister said, “Tsutomu, do you want to come and stay with us?"
+901,NH,2,22,21,P98,My wife and children will welcome you.”
+902,NH,2,22,22,P98,"Tsutomu felt happy and said, “Yes.”"
+903,NH,2,22,23,P98,Tsutomu started a new life as a member of the minister’s warm family.
+904,NH,2,22,24,P98,"Tsutomu wanted to become a minister, too."
+905,NH,2,22,25,P98,So he went to college and studied very hard.
+906,NH,2,22,26,P98,He also learned singing and sang in church.
+907,NH,2,22,27,P98,His hatred of his parents began to fade.
+908,NH,2,22,28,P98,He decided to help other people in need.
+909,NH,2,22,29,P99,"Tsutomu’s Italian voice trainer once said to him, “Your voice is a gift from God, and also from your father."
+910,NH,2,22,30,P99,You’re the only one in the world with a voice like that.”
+911,NH,2,22,31,P99,Tsutomu is now proud of his singing.
+912,NH,2,22,32,P99,"His motto is “Try to be the only one, not just number one.”"
+913,NH,2,22,33,P99,We can feel the brightness and sadness of Okinawa through his beautiful voice in his song Sugarcane Fields.
+914,NH,2,23,1,P100,Let’s compare sea animals.
+915,NH,2,23,2,P100,The dolphin is larger than the tuna.
+916,NH,2,23,3,P100,But the tuna swims faster than the dolphin.
+917,NH,2,23,4,P100,The blue whale is the largest of all animals.
+918,NH,2,23,5,P100,It is longer than a 25-meter swimming pool!
+919,NH,2,24,1,P102,"Thank you, Deepa."
+920,NH,2,24,2,P102,"I love dolphins, so I really enjoyed your book."
+921,NH,2,24,3,P102,"Oh, then you should see this movie, Dolphin Tale."
+922,NH,2,24,4,P102,It’s more interesting than this book.
+923,NH,2,24,5,P102,Really?
+924,NH,2,24,6,P102,Yes. Don’t miss the ending.
+925,NH,2,24,7,P102,That scene is the most impressive in the movie.
+926,NH,2,24,8,P102,OK. 
+927,NH,2,24,9,P102,I’ll check it out.
+928,NH,2,24,10,P102,Let’s talk about the movie tomorrow.
+929,NH,2,25,1,P104,Sawyer is a shy 11-year-old boy.
+930,NH,2,25,2,P104,"One day, he sees a dolphin on a beach."
+931,NH,2,25,3,P104,The dolphin has a serious tail injury.
+932,NH,2,25,4,P104,Sawyer tries to help her.
+933,NH,2,25,5,P104,Soon some people from an aquarium come to rescue her.
+934,NH,2,25,6,P104,They name her Winter and take good care of her.
+935,NH,2,25,7,P104,Sawyer visits the aquarium every day to see her.
+936,NH,2,25,8,P104,Winter knows that Sawyer saved her life.
+937,NH,2,25,9,P104,So she looks happy when she sees Sawyer.
+938,NH,2,25,10,P104,Winter becomes his best friend.
+939,NH,2,25,11,P104,"Winter looks happy, but her condition does not get better."
+940,NH,2,25,12,P106,Winter’s injury is very bad.
+941,NH,2,25,13,P106,The doctor must cut off her tail.
+942,NH,2,25,14,P106,"Without a tail, she’ll die."
+943,NH,2,25,15,P106,But making an artificial one is very expensive.
+944,NH,2,25,16,P106,"People at the aquarium are sad, but they can’t do anything."
+945,NH,2,25,17,P106,Sawyer thinks of an idea.
+946,NH,2,25,18,P106,He plans a charity event with volunteers.
+947,NH,2,25,19,P106,"Many people come, and Sawyer collects money for Winter."
+948,NH,2,25,20,P106,Sawyer is no longer shy.
+949,NH,2,25,21,P106,"Finally, Winter gets a new tail."
+950,NH,2,25,22,P106,It’s the best thing for her.
+951,NH,2,25,23,P106,She can swim as well as other dolphins.
+952,NH,2,25,24,P106,This movie is a true story of the bond between people and animals.
+953,NH,2,26,1,P110,Hello. 
+954,NH,2,26,2,P110,May I help you?
+955,NH,2,26,3,P110,"Yes, please."
+956,NH,2,26,4,P110,I like these jackets.
+957,NH,2,26,5,P110,We have more in the back.
+958,NH,2,26,6,P110,What color are you looking for?
+959,NH,2,26,7,P110,Something bright.
+960,NH,2,26,8,P110,How about this orange one?
+961,NH,2,26,9,P110,"Oh, that’s cool."
+962,NH,2,26,10,P110,But it’s too big for me.
+963,NH,2,26,11,P110,Shall I show you a smaller one?
+964,NH,2,26,12,P110,"Yes, please."
+965,NH,2,26,13,P110,"Oh, this is nice."
+966,NH,2,26,14,P110,How much is it?
+967,NH,2,26,15,P110,It’s sixty dollars.
+968,NH,2,26,16,P110,OK.
+969,NH,2,26,17,P110,I’ll take it.
+970,NH,2,27,1,P114,My favorite comic is Star Trip.
+971,NH,2,27,2,P114,It’s a science fiction story.
+972,NH,2,27,3,P114,A hero and his friends travel to the stars to search for treasure.
+973,NH,2,27,4,P114,It’s the most popular comic this year.
+974,NH,2,27,5,P114,I like it because there are many cool characters in it.
+975,NH,2,27,6,P114,"If you’re interested, I can tell you more about it."
+976,NH,2,28,1,P116,"Hello, everyone.  I’m Anita Lopez from Venezuela."
+977,NH,2,28,2,P116,I like classical music.
+978,NH,2,28,3,P116,I like it because it’s very emotional.
+979,NH,2,28,4,P116,"My family is poor, but I learn music thanks to a special program."
+980,NH,2,28,5,P116,The program is “El Sistema.”
+981,NH,2,28,6,P116,"In 1975, the government started it to help poor children in Venezuela."
+982,NH,2,28,7,P116,"In this program, children can borrow instruments and become a member of an orchestra."
+983,NH,2,28,8,P116,The program is free.
+984,NH,2,28,9,P116,Can you believe it?
+985,NH,2,28,10,P116,Now El Sistema is one of the most famous educational programs in the world.
+986,NH,2,28,11,P116,"More than 350,000 children are members."
+987,NH,2,28,12,P116,I joined the program five years ago.
+988,NH,2,28,13,P116,I play the violin.
+989,NH,2,28,14,P116,I really enjoy playing music with my friends in the orchestra.
+990,NH,2,28,15,P116,My life is happier than before.
+991,NH,2,28,16,P116,I think the power of music is great.
+992,NH,2,29,1,P118,Imagine that you live on a high mountain.  
+993,NH,2,29,2,P118,There is no electricity or gas.  
+994,NH,2,29,3,P118,You need to eat every day.  
+995,NH,2,29,4,P118,So you have to find ways to heat and cook food.  
+996,NH,2,29,5,P118,"When you are in a place like this, you can use a solar cooker.  "
+997,NH,2,29,6,P118,You can also use one after a disaster.
+998,NH,2,29,7,P118,A solar cooker is a tool to heat food in a pot.
+999,NH,2,29,8,P118,It collects sunlight in the pot.  
+1000,NH,2,29,9,P118,"It can cook rice, boil eggs, and even bake cakes."
+1001,NH,2,29,10,P119,A solar cooker is helpful to people in developing countries.  
+1002,NH,2,29,11,P119,Why?
+1003,NH,2,29,12,P119,"First, making a solar cooker does not cost much.  "
+1004,NH,2,29,13,P119,You can make one with only cardboard and aluminum foil.
+1005,NH,2,29,14,P119,"Second, people in developing countries can get cleaner water by boiling it with a solar cooker."
+1006,NH,2,29,15,P119,Drinking water from rivers and lakes is one of the biggest causes of disease.
+1007,NH,2,29,16,P119,"Third, a solar cooker is safe because it does not make smoke.  "
+1008,NH,2,29,17,P119,More than one third of the people in the world burn firewood indoors to cook.  
+1009,NH,2,29,18,P119,A lot of children die from its smoke.
+1010,NH,2,29,19,P120,A solar cooker can solve another big problem because it does not use any fuel.  
+1011,NH,2,29,20,P120,People need a lot of wood to cook every day.  
+1012,NH,2,29,21,P120,"Collecting wood is hard work, especially for women and children.  "
+1013,NH,2,29,22,P120,"With a solar cooker, they do not have to collect wood anymore."
+1014,NH,2,29,23,P120,More than two billion people use wood to heat food.  
+1015,NH,2,29,24,P120,Cutting trees in forests adds to global warming. 
+1016,NH,2,29,25,P120,"If you use one solar cooker, you can save about 550 kilograms of wood every year."
+1017,NH,2,29,26,P121,We use a lot of energy in our daily lives.  
+1018,NH,2,29,27,P121,"We get most of this energy from gas and oil, but they are limited."
+1019,NH,2,29,28,P121,A solar cooker uses solar power.  
+1020,NH,2,29,29,P121,It is an example of renewable energy. 
+1021,NH,2,29,30,P121,"There are other examples of this energy, such as water, wind, and natural heat in the ground."
+1022,NH,2,29,31,P121,"Renewable energy facilities often cost a lot, but you may find a simple idea, like a solar cooker.  "
+1023,NH,2,29,32,P121,Sometimes a simple idea has the power to change the world for the better.
+1024,NH,3,1,1,P4,"Hello, everyone."
+1025,NH,3,1,2,P4,I'm Ito Kota.
+1026,NH,3,1,3,P4,I'm going to talk about Canada.
+1027,NH,3,1,4,P4,Look at the map and the table.
+1028,NH,3,1,5,P4,Canada is north of the United States.
+1029,NH,3,1,6,P4,"It's the world's second largest country, but its population is only thirty-three million."
+1030,NH,3,1,7,P4,"There are many places to see in Canada, like Niagara Falls and Canadian Rockies."
+1031,NH,3,1,8,P4,A lot of people go to Canada to enjoy its beautiful nature.
+1032,NH,3,1,9,P4,I want to go and see it myself.
+1033,NH,3,1,10,P4,Thank you.
+1034,NH,3,2,1,P6,This is a famous painting by Vincent van Gogh.
+1035,NH,3,2,2,P6,It is loved by many people.
+1036,NH,3,2,3,P6,Van Gogh was influenced by ukiyo-e.
+1037,NH,3,2,4,P6,Some ukiyo-e prints are shown in this painting.
+1038,NH,3,2,5,P6,They were brought from Japan to Europe.
+1039,NH,3,2,6,P8,Was this picture also painted by the same person?
+1040,NH,3,2,7,P8,"Yes, it was."
+1041,NH,3,2,8,P8,When was it painted?
+1042,NH,3,2,9,P8,Is the year written in the book?
+1043,NH,3,2,10,P8,Yes.
+1044,NH,3,2,11,P8,It was painted in 1887.
+1045,NH,3,2,12,P8,I see.
+1046,NH,3,2,13,P8,"At that time, Japanese culture was popular in Europe."
+1047,NH,3,2,14,P8,Really?
+1048,NH,3,2,15,P8,How about now?
+1049,NH,3,2,16,P10,Japanese Pop Culture around the World
+1050,NH,3,2,17,P10,Japanese manga and anime characters are loved in many countries.
+1051,NH,3,2,18,P10,Doraemon is one good example.
+1052,NH,3,2,19,P10,"In 2012, he was given special birthday parties in Hong Kong and Taiwan."
+1053,NH,3,2,20,P10,"Many Doraemon fans celebrated his 100-year ""before'' birthday."
+1054,NH,3,2,21,P10,"Another popular example of Japanese pop culture is the word ""kawaii.''"
+1055,NH,3,2,22,P10,"""Kawaii '' is also used outside Japan now."
+1056,NH,3,2,23,P10,A lot of people are attracted by kawaii culture such as Hello Kitty goods and other unique designs.
+1057,NH,3,2,24,P12,"Friday, April 22"
+1058,NH,3,2,25,P12,I read about ukiyo-e and Japanese pop culture today.
+1059,NH,3,2,26,P12,"I knew little about them before, but I learned that both are much loved in foreign countries."
+1060,NH,3,2,27,P12,It makes me proud of Japan.
+1061,NH,3,2,28,P12,I also learned that ukiyo-e was pop culture in Japan during the Edo period.
+1062,NH,3,2,29,P12,"In fact, ukiyo-e prints were sold like posters."
+1063,NH,3,2,30,P12,I think manga and anime will be traditional Japanese arts like ukiyo-e someday.
+1064,NH,3,2,31,P12,Maybe even kawaii culture can become a part of Japanese tradition.
+1065,NH,3,2,32,P12,This idea makes me happy.
+1066,NH,3,3,1,P16,"Help yourself, Erika."
+1067,NH,3,3,2,P16,Thank you.
+1068,NH,3,3,3,P16,Would you like some more?
+1069,NH,3,3,4,P16,"Yes, please. "
+1070,NH,3,3,5,P16,It's very good.
+1071,NH,3,3,6,P16,I'm glad you like it.
+1072,NH,3,3,7,P16,May I have some water?
+1073,NH,3,3,8,P16,Of course. 
+1074,NH,3,3,9,P16,Here you are.
+1075,NH,3,3,10,P16,This dish is delicious. 
+1076,NH,3,3,11,P16,What is it called?
+1077,NH,3,3,12,P16,It's called meat loaf.
+1078,NH,3,3,13,P16,It's made from beef.
+1079,NH,3,3,14,P16,Would you like another piece of meat loaf?
+1080,NH,3,3,15,P16,"No, thank you."
+1081,NH,3,3,16,P16,I'm full.
+1082,NH,3,4,1,P18,This is called a yunomi.
+1083,NH,3,4,2,P18,It's used when you drink tea.
+1084,NH,3,4,3,P18,A yunomi usually doesn't have a handle.
+1085,NH,3,4,4,P18,This yunomi is Arita ware from Saga Prefecture.
+1086,NH,3,4,5,P18,There are many kinds of yunomi in Japan.
+1087,NH,3,4,6,P18,Some of them are really beautiful.
+1088,NH,3,5,1,P20,"Hi, everyone."
+1089,NH,3,5,2,P20,My name is Maile Johnson.
+1090,NH,3,5,3,P20,I'm a high school student in Hawaii.
+1091,NH,3,5,4,P20,"Last summer, I met Sayuri, a 17-year-old Japanese student."
+1092,NH,3,5,5,P20,She visited Hawaii to study English during her summer vacation.
+1093,NH,3,5,6,P20,She stayed at our house for two weeks as a homestay student.
+1094,NH,3,5,7,P20,We became very good friends.
+1095,NH,3,5,8,P20,"One day, she said to me, "
+1096,NH,3,5,9,P20,Your father often wears aloha shirts to work.
+1097,NH,3,5,10,P20,I like them.
+1098,NH,3,5,11,P20,They're very Hawaiian.''
+1099,NH,3,5,12,P20,"""Yes, I like them, too."
+1100,NH,3,5,13,P20,I also love Japanese clothes.
+1101,NH,3,5,14,P20,"I'm interested in Japanese kimonos, ''"
+1102,NH,3,5,15,P20,I answered.
+1103,NH,3,5,16,P20,"Actually, the first aloha shirts in Hawaii were made by people from Asia."
+1104,NH,3,5,17,P20,They were made from Japanese kimonos.
+1105,NH,3,5,18,P20,I told this story to Sayuri.
+1106,NH,3,5,19,P20,It made her curious.
+1107,NH,3,5,20,P20,"""How were the kimonos brought from Japan to Hawaii? '' she asked."
+1108,NH,3,5,21,P20,Today aloha shirts are known around the world as example of Hawaiian culture.
+1109,NH,3,5,22,P20,You can see them in many places.
+1110,NH,3,5,23,P20,Cultures are mixing and the world is becoming smaller.
+1111,NH,3,5,24,P20,Isn't that great?
+1112,NH,3,6,1,P22,"Hi, everyone!"
+1113,NH,3,6,2,P22,I'm Ricardo Takahashi from Rio de Janeiro.
+1114,NH,3,6,3,P22,My grandfather is Japanese.
+1115,NH,3,6,4,P22,I've lived in Japan for a month.
+1116,NH,3,6,5,P22,I've loved Japanese anime since I was a little child.
+1117,NH,3,6,6,P22,I watched some programs in Brazil.
+1118,NH,3,6,7,P22,I'm glad I could finally come to Japan.
+1119,NH,3,6,8,P24,"Hey, Kota."
+1120,NH,3,6,9,P24,"You're on the soccer team, aren't you?"
+1121,NH,3,6,10,P24,Yes.
+1122,NH,3,6,11,P24,How did you know that?
+1123,NH,3,6,12,P24,"Paulo, your coach, told me about you."
+1124,NH,3,6,13,P24,He taught me soccer when he was in Brazil.
+1125,NH,3,6,14,P24,Really?
+1126,NH,3,6,15,P24,How long have you known him?
+1127,NH,3,6,16,P24,For about eight years.
+1128,NH,3,6,17,P24,Now he often comes to our house in Japan.
+1129,NH,3,6,18,P24,Wow.
+1130,NH,3,6,19,P24,It's a small world!
+1131,NH,3,6,20,P26,Look at this picture.
+1132,NH,3,6,21,P26,"It looks like the sea, doesn't it?"
+1133,NH,3,6,22,P26,"Actually, it's a river, the Amazon."
+1134,NH,3,6,23,P26,It's the largest river in the world.
+1135,NH,3,6,24,P26,The Amazon has been important to Brazil for many years.
+1136,NH,3,6,25,P26,Its water power produces about eighty percent of Brazil's electricity.
+1137,NH,3,6,26,P26,"The Amazon has been helpful to everyone here, too."
+1138,NH,3,6,27,P26,It runs through a huge rain forest.
+1139,NH,3,6,28,P26,That forest produces about twenty percent of the world's oxygen.
+1140,NH,3,6,29,P26,The oxygen in this classroom may come from Brazil!
+1141,NH,3,6,30,P28,The rain forest of the Amazon has many unique animals.
+1142,NH,3,6,31,P28,"These animals have been there for a long time, but they're losing their home now."
+1143,NH,3,6,32,P28,People are destroying the rain forest.
+1144,NH,3,6,33,P28,It has continued for years.
+1145,NH,3,6,34,P28,"Between the 1970s and 2010, about 740,000 square kilometers of the forest disappeared."
+1146,NH,3,6,35,P28,That's almost twice the size of Japan.
+1147,NH,3,6,36,P28,I've been worried about this problem since I was in elementary school.
+1148,NH,3,6,37,P28,I want to become a scientist and do something for the plants and animals of the Amazon.
+1149,NH,3,6,38,P28,The Amazon is treasure of the world.
+1150,NH,3,7,1,P32,15-May
+1151,NH,3,7,2,P32,"Dear Jiro,"
+1152,NH,3,7,3,P32,My name is Erika.
+1153,NH,3,7,4,P32,I am a junior high school student in New York.
+1154,NH,3,7,5,P32,"I lived in Japan before, and I have been a big fan of yours since then."
+1155,NH,3,7,6,P32,"Today, I saw the game at Yankee Stadium."
+1156,NH,3,7,7,P32,I was really impressed when you hit a home run.
+1157,NH,3,7,8,P32,I have a question.
+1158,NH,3,7,9,P32,You have been successful in the United States.
+1159,NH,3,7,10,P32,What is your next goal?
+1160,NH,3,7,11,P32,Please write back if you have time.
+1161,NH,3,7,12,P32,I wish you the best of luck.
+1162,NH,3,7,13,P32,"From your biggest fan, Takigawa Erika"
+1163,NH,3,8,1,P34,1. Have you ever heard of “fair trade”?
+1164,NH,3,8,2,P34,"Yes, I have."
+1165,NH,3,8,3,P34,"No, I haven’t."
+1166,NH,3,8,4,P34,2. Have you ever seen this mark?
+1167,NH,3,8,5,P34,Yes. I’ve seen it before.
+1168,NH,3,8,6,P34,I’ve seen it before.
+1169,NH,3,8,7,P34,No.
+1170,NH,3,8,8,P34,I’ve never seen it before.
+1171,NH,3,8,9,P34,Come and discover the world of fair trade.
+1172,NH,3,8,10,P36,"Chocolates, coffee, clothes…."
+1173,NH,3,8,11,P36,Are these all fair trade products?
+1174,NH,3,8,12,P36,Yes. 
+1175,NH,3,8,13,P36,I’ve just taken a look at the pamphlet.
+1176,NH,3,8,14,P36,It says more than fifty products are sold here.
+1177,NH,3,8,15,P36,Have you looked at the prices yet?
+1178,NH,3,8,16,P36,"No, not yet."
+1179,NH,3,8,17,P36,Have you?
+1180,NH,3,8,18,P36,Yes. I’ve already checked some products.
+1181,NH,3,8,19,P36,They seem a little expensive.
+1182,NH,3,8,20,P36,"Well, maybe the prices are “fair.”"
+1183,NH,3,8,21,P38,Ghana produces a lot of cacao.
+1184,NH,3,8,22,P38,It’s made into chocolate.
+1185,NH,3,8,23,P38,Many cacao farm workers are very poor because cacao is sold at a low price.
+1186,NH,3,8,24,P38,"They work hard, but they can’t make enough money to live."
+1187,NH,3,8,25,P38,They work under “unfair” conditions.
+1188,NH,3,8,26,P38,Many children in Ghana have to work on farms to help their families.
+1189,NH,3,8,27,P38,Some of them have never been to school.
+1190,NH,3,8,28,P38,Fair trade can solve these problems.
+1191,NH,3,8,29,P38,"If you buy fair trade chocolate, more money goes to the workers."
+1192,NH,3,8,30,P38,Your shopping choices can make a difference.
+1193,NH,3,8,31,P40,"Hi, Alex."
+1194,NH,3,8,32,P40,I enjoyed the event today.
+1195,NH,3,8,33,P40,I’ve just tried some fair trade chocolate with my family.
+1196,NH,3,8,34,P40,It was great.
+1197,NH,3,8,35,P40,The children in today’s video don’t know that cacao is made into chocolate.
+1198,NH,3,8,36,P40,They have never eaten chocolate themselves.
+1199,NH,3,8,37,P40,I was surprised to hear that.
+1200,NH,3,8,38,P40,What can we do for those children?
+1201,NH,3,8,39,P40,I think choosing fair trade products is one way to support them.
+1202,NH,3,8,40,P40,Learning about the people behind the products is another.
+1203,NH,3,8,41,P40,I was glad to learn about fair trade today.
+1204,NH,3,8,42,P40,I want to learn more.
+1205,NH,3,8,43,P40,"Your friend, Saki"
+1206,NH,3,9,1,P44,Have you ever been to the Statue of Liberty?
+1207,NH,3,9,2,P44,"No, I haven’t."
+1208,NH,3,9,3,P44,But I want to visit it someday.
+1209,NH,3,9,4,P44,I’m going tomorrow.
+1210,NH,3,9,5,P44,Would you like to come with me?
+1211,NH,3,9,6,P44,I’d love to.
+1212,NH,3,9,7,P44,When and where shall we meet?
+1213,NH,3,9,8,P44,Let’s meet in front of your hotel at 10:30.
+1214,NH,3,9,9,P44,Is that OK?
+1215,NH,3,9,10,P44,At 10:30?
+1216,NH,3,9,11,P44,That’s perfect.
+1217,NH,3,9,12,P44,I’m looking forward to it.
+1218,NH,3,9,13,P44,OK.
+1219,NH,3,9,14,P44,See you then.
+1220,NH,3,10,1,P50,We went to Kyoto on a school trip in June.
+1221,NH,3,10,2,P50,Kyoto is an old city with many traditional buildings.
+1222,NH,3,10,3,P50,My favorite was Kinkaku-ji.
+1223,NH,3,10,4,P50,"One of my friends said, "
+1224,NH,3,10,5,P50,“I’ve never seen such a beautiful temple before!”
+1225,NH,3,10,6,P50,"I thought it was beautiful, too."
+1226,NH,3,10,7,P50,I also enjoyed talking with my friends at night.
+1227,NH,3,10,8,P50,I’ll never forget this trip.
+1228,NH,3,11,1,P52,"Hello, everyone."
+1229,NH,3,11,2,P52,My name is Paavo Laitinen.
+1230,NH,3,11,3,P52,I’m a junior high school student in Finland.
+1231,NH,3,11,4,P52,I’ve lived in Helsinki for more than ten years.
+1232,NH,3,11,5,P52,"Last winter, we went to Lapland on a school trip."
+1233,NH,3,11,6,P52,Lapland is a region in northern Finland.
+1234,NH,3,11,7,P52,It has been popular among tourists for a long time because the nature there is really beautiful.
+1235,NH,3,11,8,P52,"On the trip, we enjoyed many activities."
+1236,NH,3,11,9,P52,My favorite activity was a husky tour.
+1237,NH,3,11,10,P52,"We got on a sled, and huskies pulled it through the forest."
+1238,NH,3,11,11,P52,It was very exciting.
+1239,NH,3,11,12,P53,Seeing an aurora was also one of the purposes of this trip.
+1240,NH,3,11,13,P53,Have you ever heard of auroras?
+1241,NH,3,11,14,P53,We went to a vast snow field at night to see one.
+1242,NH,3,11,15,P53,"Fortunately, the weather was perfect."
+1243,NH,3,11,16,P53,We could see a band of bright green lights in the sky.
+1244,NH,3,11,17,P53,"I said to myself, "
+1245,NH,3,11,18,P53,“I’ve never seen such a beautiful aurora before.”
+1246,NH,3,11,19,P53,I was very happy to see it.
+1247,NH,3,11,20,P53,"In Lapland, I could feel a sense of living within nature."
+1248,NH,3,11,21,P53,We can’t experience that in a city.
+1249,NH,3,11,22,P53,This has become the best memory of my junior high school days so far.
+1250,NH,3,12,1,P54,"A big, old tree stands by a road near the city of Hiroshima."
+1251,NH,3,12,2,P54,"Through the years , it has seen many things."
+1252,NH,3,12,3,P54,"One summer night, the tree heard a lullaby."
+1253,NH,3,12,4,P54,A mother was singing to her little girl under the tree.
+1254,NH,3,12,5,P54,"They looked happy, and the song sounded sweet."
+1255,NH,3,12,6,P54,But the tree remembered something sad.
+1256,NH,3,12,7,P54,“Yes. 
+1257,NH,3,12,8,P54,It was some seventy years ago.
+1258,NH,3,12,9,P54,"I heard a lullaby that night, too.”"
+1259,NH,3,12,10,P55,"On the morning of that day, a big bomb fell on the city of Hiroshima."
+1260,NH,3,12,11,P55,"Many people lost their lives, and many others were injured."
+1261,NH,3,12,12,P55,They had burns all over their bodies.
+1262,NH,3,12,13,P55,I was very sad when I saw those people.
+1263,NH,3,12,14,P55,It was a very hot day.
+1264,NH,3,12,15,P55,Some of the people fell down near me.
+1265,NH,3,12,16,P55,"I said to them, “Come and rest in my shade."
+1266,NH,3,12,17,P55,You’ll be all right soon.”
+1267,NH,3,12,18,P56,Night came.
+1268,NH,3,12,19,P56,Some people were already dead.
+1269,NH,3,12,20,P56,I heard a weak voice.
+1270,NH,3,12,21,P56,It was a lullaby.
+1271,NH,3,12,22,P56,A young girl was singing to a little boy.
+1272,NH,3,12,23,P56,“Mommy!  Mommy!” the boy cried.
+1273,NH,3,12,24,P56,"“Don’t cry,” the girl said."
+1274,NH,3,12,25,P56,“Mommy is here.”
+1275,NH,3,12,26,P56,Then she began to sing again.
+1276,NH,3,12,27,P56,"She was very weak, but she tried to be a mother to the poor little boy."
+1277,NH,3,12,28,P56,She held him in her arms like a real mother.
+1278,NH,3,12,29,P57,"“Mommy,” the boy was still crying."
+1279,NH,3,12,30,P57,"“Be a good boy,” said the girl."
+1280,NH,3,12,31,P57,“You’ll be all right.”
+1281,NH,3,12,32,P57,She held the boy more tightly and began to sing again.
+1282,NH,3,12,33,P57,"After a while, the boy stopped crying and quietly died.  "
+1283,NH,3,12,34,P57,But the little mother did not stop singing.
+1284,NH,3,12,35,P57,It was a sad lullaby.
+1285,NH,3,12,36,P57,The girl’s voice became weaker and weaker.
+1286,NH,3,12,37,P57,"Morning came and the sun rose, but the girl never moved again."
+1287,NH,3,13,1,P58,This Week’s Evacuation Drill
+1288,NH,3,13,2,P58,Do you know what to do in an emergency?
+1289,NH,3,13,3,P58,"In case of a fire, go outside."
+1290,NH,3,13,4,P58,Walk fast. 
+1291,NH,3,13,5,P58,Don’t run.
+1292,NH,3,13,6,P58,"In case of an earthquake, cover your head first."
+1293,NH,3,13,7,P58,Wait in a safe place until it stops.
+1294,NH,3,13,8,P58,Learn how to protect yourself.
+1295,NH,3,13,9,P60,It’s difficult for me to imagine a big earthquake.
+1296,NH,3,13,10,P60,But one may happen at any time.
+1297,NH,3,13,11,P60,That’s true.
+1298,NH,3,13,12,P60,"So it’s necessary for us to prepare for disasters, right?"
+1299,NH,3,13,13,P60,Yes.
+1300,NH,3,13,14,P60,And I think it’s important to keep the past in mind.
+1301,NH,3,13,15,P60,What do you mean?
+1302,NH,3,13,16,P60,"Well, I’ll tell you a story."
+1303,NH,3,13,17,P62,"On March 11, 2012, there was a special violin performance in the city of Rikuzentakata."
+1304,NH,3,13,18,P62,The audience listened closely to the sound of the violin.
+1305,NH,3,13,19,P62,Some of the people were in tears.
+1306,NH,3,13,20,P62,That violin was very special to everyone there.
+1307,NH,3,13,21,P62,"The violin was made by Nakazawa Muneyuki, a famous violin maker."
+1308,NH,3,13,22,P62,"After the earthquake hit Japan in 2011, he wondered how to help as a craftsperson."
+1309,NH,3,13,23,P62,Then he came up with an idea.
+1310,NH,3,13,24,P62,It was to make violins from driftwood from the disaster.
+1311,NH,3,13,25,P64,"Though it was not easy to make a violin from the driftwood, Mr. Nakazawa created some beautiful violins."
+1312,NH,3,13,26,P64,The violins have a tender sound with the power to heal people.
+1313,NH,3,13,27,P64,They have been passed around to many musicians.
+1314,NH,3,13,28,P64,"As of January 2014, more than 200 musicians have played the violins."
+1315,NH,3,13,29,P64,"Millions of people have listened to them at concerts or on TV not only in Japan, but also around the world."
+1316,NH,3,13,30,P64,"“I want our future generations to play the violins, too,” said Mr. Nakazawa."
+1317,NH,3,13,31,P64,“I want them to pass on the memories.”
+1318,NH,3,14,1,P68,Excuse me.
+1319,NH,3,14,2,P68,Could you tell me how to get to Kokuritsu-kyogijo Station?
+1320,NH,3,14,3,P68,Sure.
+1321,NH,3,14,4,P68,"Take the Ginza Line to Aoyama-itchome, and change trains there."
+1322,NH,3,14,5,P68,I see.
+1323,NH,3,14,6,P68,How many stops is Aoyama-itchome from here?
+1324,NH,3,14,7,P68,Three stops.
+1325,NH,3,14,8,P68,Which line should I take from Aoyama-itchome?
+1326,NH,3,14,9,P68,Take the Oedo Line.
+1327,NH,3,14,10,P68,It’s the train on Track 2.
+1328,NH,3,14,11,P68,Thank you very much.
+1329,NH,3,14,12,P68,My pleasure.
+1330,NH,3,15,1,P70,Technology Meets Tradition
+1331,NH,3,15,2,P70,Look at these robots playing the taiko drums.
+1332,NH,3,15,3,P70,They were originally made as industrial robots.
+1333,NH,3,15,4,P70,Now they are great musicians.
+1334,NH,3,15,5,P70,Feel the traditional rhythms created by technology.
+1335,NH,3,15,6,P72,Are you interested in robots?
+1336,NH,3,15,7,P72,"Yes, especially robots made in Japan."
+1337,NH,3,15,8,P72,Do you know what they can do?
+1338,NH,3,15,9,P72,"I heard some of them can walk, talk, and even kick a ball."
+1339,NH,3,15,10,P72,That’s right.
+1340,NH,3,15,11,P72,"Not long ago, robots like those were just a dream."
+1341,NH,3,15,12,P72,I know what you mean. 
+1342,NH,3,15,13,P72,Our dreams are becoming reality.
+1343,NH,3,15,14,P72,Exactly.
+1344,NH,3,15,15,P74,"Today, let’s talk about living with robots."
+1345,NH,3,15,16,P74,"Deepa, what do you think?"
+1346,NH,3,15,17,P74,I think robots make our lives better because they help us in many ways.
+1347,NH,3,15,18,P74,"Some robots can put together products, like cars or cameras."
+1348,NH,3,15,19,P74,They do it quickly and precisely.
+1349,NH,3,15,20,P74,Other robots can work in dangerous places instead of people.
+1350,NH,3,15,21,P74,I agree with her in part.
+1351,NH,3,15,22,P74,The robots working for us are amazing.
+1352,NH,3,15,23,P74,But there’s also a big problem.
+1353,NH,3,15,24,P74,Robots are so efficient that they’re taking people’s jobs away.
+1354,NH,3,15,25,P74,I’m worried about losing our future jobs.
+1355,NH,3,15,26,P76,Some robots work in hospitals and homes.
+1356,NH,3,15,27,P76,I think they’re necessary for our future.
+1357,NH,3,15,28,P76,The number of elderly people is increasing.
+1358,NH,3,15,29,P76,"Future robots may be able to help them when they take a bath, or go shopping."
+1359,NH,3,15,30,P76,"That’s true, but I’m a little afraid of living with robots."
+1360,NH,3,15,31,P76,"If they get out of control, we don’t know what they’ll do."
+1361,NH,3,15,32,P76,Robots are machines.
+1362,NH,3,15,33,P76,They’re too dangerous to be our partners.
+1363,NH,3,15,34,P76,"Thank you, everyone."
+1364,NH,3,15,35,P76,"In my opinion, you should keep thinking about the best way to live with robots."
+1365,NH,3,15,36,P76,It’s our future.
+1366,NH,3,16,1,P80,Hello?
+1367,NH,3,16,2,P80,"Hello, Mrs. Walker."
+1368,NH,3,16,3,P80,This is Erika.
+1369,NH,3,16,4,P80,"May I speak to Meg, please?"
+1370,NH,3,16,5,P80,"I’m sorry, she’s out."
+1371,NH,3,16,6,P80,Do you want her to call you back?
+1372,NH,3,16,7,P80,"No, it’s OK."
+1373,NH,3,16,8,P80,But can I leave a message?
+1374,NH,3,16,9,P80,Sure.
+1375,NH,3,16,10,P80,Could you tell her to come to my house at two?
+1376,NH,3,16,11,P80,We’re going to do our papers together.
+1377,NH,3,16,12,P80,OK. 
+1378,NH,3,16,13,P80,Your house at two.
+1379,NH,3,16,14,P80,Yes. 
+1380,NH,3,16,15,P80,"Thank you, Mrs. Walker."
+1381,NH,3,16,16,P80,You’re welcome.
+1382,NH,3,16,17,P80,Say hello to your parents for me.
+1383,NH,3,17,1,P82,This is a book I brought from the United States.
+1384,NH,3,17,2,P82,These are some of the people I found in it.
+1385,NH,3,17,3,P82,They’re all winners of the Nobel Peace Prize.
+1386,NH,3,17,4,P82,Is there anyone you’ve seen before?
+1387,NH,3,17,5,P84,I saw an impressive movie yesterday.
+1388,NH,3,17,6,P84,What was it about?
+1389,NH,3,17,7,P84,It was about the life of Aung San Suu Kyi.
+1390,NH,3,17,8,P84,Is she the woman Ms. Baker talked about?
+1391,NH,3,17,9,P84,Yes.
+1392,NH,3,17,10,P84,She’s a political leader who fights for democracy and human rights in Myanmar.
+1393,NH,3,17,11,P84,Sounds interesting.
+1394,NH,3,17,12,P86,Political Life
+1395,NH,3,17,13,P86,"In 1988, there was a movement for democracy in Myanmar."
+1396,NH,3,17,14,P86,A great number of people who joined it were killed.
+1397,NH,3,17,15,P86,"People needed a strong leader, and asked Aung San Suu Kyi to join them."
+1398,NH,3,17,16,P86,"She accepted, and decided to work for her country."
+1399,NH,3,17,17,P86,"In 1989, the government put her under house arrest to stop the movement."
+1400,NH,3,17,18,P86,"She was locked up for 15 years in total, but she never gave up."
+1401,NH,3,17,19,P86,"In 1991, she won the Nobel Peace Prize."
+1402,NH,3,17,20,P86,It was a prize that attracted people’s attention.
+1403,NH,3,17,21,P86,The world recognized her efforts for democracy and human rights.
+1404,NH,3,17,22,P88,Personal Life
+1405,NH,3,17,23,P88,"In 1999, Aung San Suu Kyi’s husband was dying of cancer."
+1406,NH,3,17,24,P88,"She wanted to visit him in the U.K., but she could not leave her suffering people behind."
+1407,NH,3,17,25,P88,"In the end, she stayed in Myanmar and never saw him again."
+1408,NH,3,17,26,P88,It was a sad decision that they made together.
+1409,NH,3,17,27,P88,"In 2010, she was finally set free."
+1410,NH,3,17,28,P88,"She is still fighting for a world that is “free from the displaced, the homeless, and the hopeless.”"
+1411,NH,3,17,29,P88,"The world that she wants may not come easily, but she keeps striving for it."
+1412,NH,3,18,1,P92,"Many Japanese students wear school uniforms, but most American students do not."
+1413,NH,3,18,2,P92, I think that we should have school uniforms.
+1414,NH,3,18,3,P92,These are my reasons.
+1415,NH,3,18,4,P92,"First, if we have school uniforms, we do not have to worry about what to wear every day."
+1416,NH,3,18,5,P92,"Second, having school uniforms saves us money on clothes."
+1417,NH,3,18,6,P92,"Third, when we wear school uniforms, we can feel that we belong to our school."
+1418,NH,3,18,7,P92,School uniforms are good for students in many ways.
+1419,NH,3,18,8,P92,I think that we should also have school uniforms in the United States.
+1420,NH,3,19,1,P96,I’ve been a member of the volleyball team for three years.  
+1421,NH,3,19,2,P96,"At first, it was difficult for us to win a game, but we’ve improved a lot.  "
+1422,NH,3,19,3,P96,I’ll never forget winning the city championship.
+1423,NH,3,19,4,P96,I’m going to keep playing volleyball.  
+1424,NH,3,19,5,P96,I want to be a player who can lead a team to the national tournament.
+1425,NH,3,20,1,P98,"Hi, everyone.  "
+1426,NH,3,20,2,P98,"I’m Takigawa Erika, a 15-year-old girl living in New York.  "
+1427,NH,3,20,3,P98,"I lived in Japan before, and moved here last year."
+1428,NH,3,20,4,P98,"In New York, I’ve met people from all over the world.  "
+1429,NH,3,20,5,P98,"There are students of various cultures in my school, too.  "
+1430,NH,3,20,6,P98,It wasn’t easy for me to get along with them.  
+1431,NH,3,20,7,P98,But a class called “Filmmaking” has changed me.
+1432,NH,3,20,8,P98,Filmmaking is an elective class that is very popular in my school.  
+1433,NH,3,20,9,P98,"In the class, students work in groups and learn how to make their own movies.  "
+1434,NH,3,20,10,P98,My group had four members who all had different ideas and opinions.  
+1435,NH,3,20,11,P98,So we discussed things a lot and sometimes argued.  
+1436,NH,3,20,12,P98,"But as we were all working hard for the same goal, we came to accept one another.  "
+1437,NH,3,20,13,P98,"We brought different ideas together, and completed a wonderful movie in the end.  "
+1438,NH,3,20,14,P98,This is the greatest experience that I’ve had in my school life.  
+1439,NH,3,20,15,P98,Filmmaking taught me to accept differences and learn from other people.  
+1440,NH,3,20,16,P98,"I want everyone to learn the importance of respecting differences, and I believe there will be something I can do to help.  "
+1441,NH,3,20,17,P98,"I’m still not sure what I can do, but I hope my experiences will help me to find a way."
+1442,NH,3,21,1,P100,Rudolf read the card.  
+1443,NH,3,21,2,P100,Only three words were written on it “The Green Door.”  
+1444,NH,3,21,3,P100,A man who also received a card threw his away in front of Rudolf.  
+1445,NH,3,21,4,P100,Rudolf picked it up.  
+1446,NH,3,21,5,P100,It was just an advertisement for a dentist’s office.
+1447,NH,3,21,6,P100,Rudolf wondered why and walked past the card man again.  
+1448,NH,3,21,7,P100,He got another card with the words “The Green Door.”  
+1449,NH,3,21,8,P100,"Many cards were thrown away on the street, but they were all for the dentist."
+1450,NH,3,21,9,P100,"“Why did I receive these mysterious cards, not the dentist’s ones?”"
+1451,NH,3,21,10,P100,Rudolf was sure that an adventure was waiting for him.
+1452,NH,3,21,11,P101,"Behind the card man, Rudolf saw a building that had the dentist’s office and some shops on the first two floors.  "
+1453,NH,3,21,12,P101,He entered the building and climbed to the third floor.  
+1454,NH,3,21,13,P101,There was a dark hallway.  
+1455,NH,3,21,14,P101,"On the left, he saw a green door.  "
+1456,NH,3,21,15,P101,He walked straight to the door and knocked.
+1457,NH,3,21,16,P101,"Slowly, the door opened.  "
+1458,NH,3,21,17,P101,A young woman stood there.  
+1459,NH,3,21,18,P101,She was pale and weak.  
+1460,NH,3,21,19,P101,"She began to fall, but Rudolf caught her in his arms and carried her to a sofa in the room.  "
+1461,NH,3,21,20,P101,"After a while, the woman opened her eyes. "
+1462,NH,3,21,21,P101,"She was very beautiful, but also very thin."
+1463,NH,3,21,22,P102,"The woman looked at Rudolf calmly, and smiled."
+1464,NH,3,21,23,P102,"“I fainted, didn’t I?” she said.  "
+1465,NH,3,21,24,P102,“I haven’t eaten for three days.”
+1466,NH,3,21,25,P102,"“Oh, no!” cried Rudolf.  "
+1467,NH,3,21,26,P102,“Wait!
+1468,NH,3,21,27,P102,I’ll be right back.”
+1469,NH,3,21,28,P102,He ran out of the room and came back with a lot of food.
+1470,NH,3,21,29,P102,"“It’s ridiculous to go without eating,” said Rudolf."
+1471,NH,3,21,30,P102,The woman began to eat and told him about herself.  
+1472,NH,3,21,31,P102,Her story was nothing new.  
+1473,NH,3,21,32,P102,She got sick and lost her job.  
+1474,NH,3,21,33,P102,She ran out of money and stayed in her room without hope.  
+1475,NH,3,21,34,P102,Then she heard the knock on her green door.
+1476,NH,3,21,35,P103,“And you have no family or friends in the city?” asked Rudolf.
+1477,NH,3,21,36,P103,"“No. Nobody,” answered the woman.  "
+1478,NH,3,21,37,P103,"“Oh, now I’m sleepy, but I feel much better."
+1479,NH,3,21,38,P103,Thank you.”
+1480,NH,3,21,39,P103,"Rudolf said, “Well, good night."
+1481,NH,3,21,40,P103,I’ll come back tomorrow to see how you are.”
+1482,NH,3,21,41,P103,"At the door, she asked, “But why did you knock at my door?”"
+1483,NH,3,21,42,P103,Rudolf did not think that he should tell her about the cards.
+1484,NH,3,21,43,P103,"“By mistake,” he replied.  "
+1485,NH,3,21,44,P103,He saw her smile as the door closed.
+1486,NH,3,21,45,P103,Rudolf looked around more carefully in the hallway.  
+1487,NH,3,21,46,P103,He realized that every door on that floor was green.
+1488,NH,3,21,47,P104,"Rudolf stepped out on the street and asked the card man, "
+1489,NH,3,21,48,P104,“Why did you give me these cards?”
+1490,NH,3,21,49,P104,"The man pointed at a theater down the street and said, “They’re for a new show.  I was handing them out with the dentist’s cards.”"
+1491,NH,3,21,50,P104,"Above the theater entrance, there was a big sign saying “The Green Door.”  "
+1492,NH,3,21,51,P104,It was the title of a play.
+1493,NH,3,21,52,P104,"On his way home, Rudolf thought about his day.  "
+1494,NH,3,21,53,P104,"He said to himself, “Anyway, I believe fate guided me to her!”"
+1495,NH,3,21,54,P104,There is always an adventure just around the corner . . .
+1496,NH,3,21,55,P104,if you look for it.
+1497,NH,3,21,1,P106,One photograph changed Hoshino Michio’s life.  
+1498,NH,3,22,2,P106,"He was a university student, and one day he was looking at a book about Alaska.  "
+1499,NH,3,22,3,P106,A photograph in the book caught his attention.  
+1500,NH,3,22,4,P106,It was a photograph of a small village surrounded by wilderness.  
+1501,NH,3,22,5,P106,Michio wanted to visit and experience that place for himself.  
+1502,NH,3,22,6,P106,He wrote a letter to the mayor of the village.  
+1503,NH,3,22,7,P106,"It took six months, but the mayor wrote back.  "
+1504,NH,3,22,8,P106,"He invited Michio to Alaska, and Michio’s dream came true."
+1505,NH,3,22,9,P107,"For one summer, Michio lived among the Inuit people in that Alaskan village.  "
+1506,NH,3,22,10,P107,"He learned about Inuit food, family life, and culture.  "
+1507,NH,3,22,11,P107,He also learned skills for living without city conveniences.  
+1508,NH,3,22,12,P107,"For the Inuit, life depends on understanding nature.  "
+1509,NH,3,22,13,P107,They have to hunt for meat and gather blueberries for food.  
+1510,NH,3,22,14,P107,Michio saw how humans and animals shared the land.  
+1511,NH,3,22,15,P107,"That summer, he became a part of the Alaskan wilderness, too."
+1512,NH,3,22,16,P108,"After Michio finished university in Japan, he returned to Alaska.  "
+1513,NH,3,22,17,P108,"For 19 years, he traveled around Alaska as a photographer.  "
+1514,NH,3,22,18,P108,He often camped in severe weather to photograph animals in the wild.  
+1515,NH,3,22,19,P108,Michio really used the survival skills the Inuit taught him.  
+1516,NH,3,22,20,P108,Once he wrote about flying to the tundra to photograph caribou.  
+1517,NH,3,22,21,P108,He stayed there alone for one month.  
+1518,NH,3,22,22,P108,"As the plane left him, Michio felt lonely in a vast wilderness.  "
+1519,NH,3,22,23,P108,"But even more, he felt incredibly free."
+1520,NH,3,22,24,P109,Michio tried to show this feeling of freedom and wonder in his photographs.  
+1521,NH,3,22,25,P109,He took playful photographs of polar bears and majestic photographs of Arctic mountains.
+1522,NH,3,22,26,P109,"In 1996, he was killed by a bear as he camped alone in Kamchatka.  "
+1523,NH,3,22,27,P109,"“We only have one life to live,” wrote Michio.  "
+1524,NH,3,22,28,P109,"Though his life was cut short, Michio seemed truly happy as a photographer.  "
+1525,NH,3,22,29,P109,He loved his work and he loved Alaska.
+1526,NH,3,22,30,P110,"In Michio’s photographs, the beauty of Alaska will stay with us forever.  "
+1527,NH,3,22,31,P110,That is the magic of photographs.  
+1528,NH,3,22,32,P110,"However, the Alaskan wilderness is changing because of global warming.  "
+1529,NH,3,22,33,P110,The Arctic glaciers are melting.  
+1530,NH,3,22,34,P110,The polar bears and seals photographed by Michio cannot hunt and catch food.  
+1531,NH,3,22,35,P110,The habitat of the caribou is growing smaller.  
+1532,NH,3,22,36,P110,Even the Inuit are losing their traditional way of life.
+1533,NH,3,22,37,P111,The Alaskan wilderness was special to Michio.  
+1534,NH,3,22,38,P111,"He used his photographs to share it with us, "
+1535,NH,3,22,39,P111,and to show us the importance of life on the Earth.  
+1536,NH,3,22,40,P111,Michio’s own life was changed because of one photograph.  
+1537,NH,3,22,41,P111,Perhaps his photographs will also change someone’s life.  
+1538,NH,3,22,42,P111,Maybe Michio’s Alaskan photographs will encourage us to think about the beautiful Earth we share.
