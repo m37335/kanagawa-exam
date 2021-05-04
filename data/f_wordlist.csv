@@ -1,4 +1,4 @@
-﻿No,word,level,number of character
+No,word,level,number of character
 139,area,4,4
 209,band,4,4
 244,beef,4,4
@@ -161,7 +161,7 @@
 795,earthquake,4,10
 824,elementary,4,10
 1424,journalist,4,10
-1758,Mrs. (Mrs),4,10
+1758,Mrs.,4,10
 2749,thirteenth,4,10
 2901,university,4,10
 592,convenience,4,11
@@ -338,7 +338,7 @@
 1379,interview,5,9
 1798,necessary,5,9
 1820,newspaper,5,9
-1936,P.E. (PE),5,9
+1936,P.E.,5,9
 2333,scientist,5,9
 2443,situation,5,9
 2923,vegetable,5,9
@@ -849,4 +849,4 @@
 1374,interesting,6,11
 2811,traditional,6,11
 1375,international,6,13
-837,e-mail (email),6,14
+837,e-mail,6,14
