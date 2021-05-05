@@ -29,7 +29,8 @@
 **参照ファイル**  
 ファイル名: `part2_predict.ipynb`  
 ファイル名: `data/kanagawaPart2.csv`  
-| year | s_id | question | sentence_question | sentence |  
+
+| year | s_id | question | sentence_question | sentence |
 |:---|:---|:---|:---|:---|
 | 年度 | 本文のid | 問題番号 | 問題文_()内が問題部分 | 解答埋め込みの一文 |
 
@@ -49,8 +50,14 @@
 （２）該当部分をMASKに変換  
 （３）CSVで出力  
 
+**作成するファイル**  
+ファイル名: `data/textbook_sentence_maskedword_df-check.csv`  
+
+| id | textBook | grade | articleId | Page | sentenceId | sentence | mask_id | masked_Word | 0~25 |  
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|  
+| id | 教科書名 | 学年 | 記事ID | ページ | 本文ID | センテンス | マスクする箇所 | マスクする単語 | Token |  
+
 **参照ファイル**  
 ファイル名: `textbook_finetuning.ipynb`  
 ファイル名: `data/f_wordlist.csv`  
 ファイル名: `data/NH_textbook-sentence.csv`  
-ファイル名: `data/textbook_sentence_maskedword_df-check.csv`  
