@@ -12,8 +12,12 @@
 |:---|:---|
 | data/   | 分析に用いる元データ |
 | data/kanagawaPart2.csv | 2009から2020年度までの問２問題データ |
+| data/f_wordlist.csv | 教科書６冊から作成した頻出単語リスト |
+| data/NH_textbook-sentence.csv | 教科書ニューホライズンの本文データ |
+| data/textbook_sentence_maskedword_df-check.csv | ファインチューニング用のデータ |
 | part2_predict.ipynb | 問２分析のために作成したコード |
 | part3_predict.ipynb | 問３分析のために作成したコード |
+| textbook_finetuning.ipynb | ファインチューニング用のデータを作成する為のコード |
 
 ## **内容構成**
 ### **【英語】神奈川入試問２適語補充分析について**
@@ -23,7 +27,7 @@
 （３）BERTを用いて、予測  
 
 **参照ファイル**  
-ファイル名: `【英語】神奈川入試問２適語補充分析.ipynb`  
+ファイル名: `part2_predict.ipynb`  
 ファイル名: `data/kanagawaPart2.csv`  
 | year | s_id | question | sentence_question | sentence |  
 |:---|:---|:---|:---|:---|
@@ -38,3 +42,15 @@
 
 **参照ファイル**  
 ファイル名: `part3_predict.ipynb`  
+
+### **ファインチューニング用データの作成について**
+**内容**  
+（１）入試頻出単語リスト内の単語が使用されている本文を抽出  
+（２）該当部分をMASKに変換  
+（３）CSVで出力  
+
+**参照ファイル**  
+ファイル名: `textbook_finetuning.ipynb`  
+ファイル名: `data/f_wordlist.csv`  
+ファイル名: `data/NH_textbook-sentence.csv`  
+ファイル名: `data/textbook_sentence_maskedword_df-check.csv`  
