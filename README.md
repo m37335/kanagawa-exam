@@ -13,7 +13,7 @@
 | data/   | 分析に用いる元データ |
 | data/kanagawaPart2.csv | 2009から2020年度までの問２問題データ |
 | data/f_wordlist.csv | 教科書６冊から作成した頻出単語リスト |
-| data/NH_textbook-sentence.csv | 教科書ニューホライズンの本文データ |
+| data/NH_textbook-sentence.csv | 教科書の本文データ |
 | data/textbook_sentence_maskedword_df-check.csv | ファインチューニング用のデータ |
 | part2_predict.ipynb | 問２分析のために作成したコード |
 | part3_predict.ipynb | 問３分析のために作成したコード |
