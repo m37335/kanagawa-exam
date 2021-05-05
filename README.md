@@ -12,7 +12,7 @@
 |:---|:---|
 | data/   | 分析に用いる元データ |
 | data/kanagawaPart2.csv | 2009から2020年度までの問２問題データ |
-| part2_predict.ipynb.ipynb | 問２分析のために作成したコード |
+| part2_predict.ipynb | 問２分析のために作成したコード |
 | part3_predict.ipynb | 問３分析のために作成したコード |
 
 ## **内容構成**
